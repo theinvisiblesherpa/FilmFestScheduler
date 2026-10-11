@@ -6,7 +6,7 @@ COPY src/web/package.json src/web/package-lock.json ./src/web/
 RUN npm ci --prefix src/web
 
 COPY src/web ./src/web
-COPY src/SourceData/PFF35-Schedule.json ./src/SourceData/PFF35-Schedule.json
+COPY src/static/PFF35-Schedule.json ./src/static/PFF35-Schedule.json
 RUN npm run build --prefix src/web
 
 FROM nginxinc/nginx-unprivileged:alpine

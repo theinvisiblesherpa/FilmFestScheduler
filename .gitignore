@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Source Data Files
-src/SourceData/*
+src/SourceData/
