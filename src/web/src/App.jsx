@@ -1,12 +1,15 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useLayoutEffect, useRef, useState } from "react";
+import { createPortal } from "react-dom";
 import {
   CalendarDays,
   Check,
+  ChevronDown,
   ChevronLeft,
   ChevronRight,
   Download,
   Github,
   Search,
+  Share2,
   SlidersHorizontal,
   X,
 } from "lucide-react";
@@ -58,6 +61,15 @@ const CATEGORY_COLORS = {
 const allDates = [...new Set(schedule.map((item) => item.date))].sort();
 const scheduleById = new Map(schedule.map((item) => [item.id, item]));
 
+function sharedSelectionFromUrl() {
+  const parameter = new URLSearchParams(window.location.search).get("plan");
+  if (parameter === null) return null;
+  if (!parameter) return new Set();
+
+  const validIds = new Set(schedule.map((item) => item.id));
+  return new Set(parameter.split(",").filter((id) => validIds.has(id)));
+}
+
 function dateLabel(date, format = { weekday: "long", month: "long", day: "numeric" }) {
   return new Intl.DateTimeFormat("en-US", { ...format, timeZone: "UTC" }).format(
     new Date(`${date}T12:00:00Z`),
@@ -99,13 +111,13 @@ function getStatus(scheduleItems, selectedIds) {
   return { selected, blockedBy };
 }
 
-function planPosition(item) {
+function planPosition(item, minuteWidth = MINUTE_WIDTH) {
   const start = Math.max(DAY_START, item.start_offset_minutes);
   const naturalEnd = item.end_offset_minutes ?? item.start_offset_minutes + UNTIMED_WIDTH;
   const end = Math.min(DAY_END, naturalEnd);
   return {
-    left: (start - DAY_START) * MINUTE_WIDTH,
-    width: Math.max(30, (end - start) * MINUTE_WIDTH - 2),
+    left: (start - DAY_START) * minuteWidth,
+    width: Math.max(30, (end - start) * minuteWidth - 2),
   };
 }
 
@@ -181,33 +193,89 @@ function filmPreviewPosition(target) {
   };
 }
 
-function FilmPreview({ item, position, onMouseEnter, onMouseLeave }) {
+function FilmPreview({
+  item,
+  position,
+  pinned,
+  previewHeight,
+  selected,
+  conflict,
+  onConfirm,
+  onClose,
+  onMouseEnter,
+  onMouseLeave,
+}) {
+  const subtitle = item.location || (item.director ? `Dir: ${item.director}` : null);
   return (
     <aside
-      className="film-preview"
+      className={`film-preview ${pinned ? "is-mobile-preview" : ""}`}
       role="dialog"
-      aria-label={`${item.name} film details`}
-      style={{
-        left: position.left,
-        top: position.top,
-        width: position.width,
-        maxHeight: position.maxHeight,
-      }}
+      aria-label={`${item.name} ${item.run_time_minutes == null ? "event" : "film"} details`}
+      style={
+        pinned
+          ? { "--mobile-preview-height": `${previewHeight ?? 45}dvh` }
+          : {
+              left: position.left,
+              top: position.top,
+              width: position.width,
+              maxHeight: position.maxHeight,
+            }
+      }
       onMouseEnter={onMouseEnter}
       onMouseLeave={onMouseLeave}
     >
-      {item.image_url && (
-        <img
-          className="film-preview-image"
-          src={item.image_url}
-          srcSet={item.image_url_2x ? `${item.image_url_2x} 2x` : undefined}
-          alt=""
-        />
-      )}
-      <div className="film-preview-content">
-        <h2>{item.name}</h2>
-        {item.director && <p className="film-preview-director">Dir: {item.director}</p>}
-        {item.description && <p className="film-preview-description">{item.description}</p>}
+      <button
+        type="button"
+        className="film-preview-close"
+        aria-label="Close screening details"
+        onClick={onClose}
+      >
+        <X size={18} aria-hidden="true" />
+      </button>
+      <div className="film-preview-body">
+        {item.image_url && (
+          <img
+            className="film-preview-image"
+            src={item.image_url}
+            srcSet={item.image_url_2x ? `${item.image_url_2x} 2x` : undefined}
+            alt=""
+          />
+        )}
+        <div className="film-preview-content">
+          <h2>{item.name}</h2>
+          {subtitle && (
+            <p className={`film-preview-subtitle ${item.location ? "is-location" : ""}`}>
+              {subtitle}
+            </p>
+          )}
+          {pinned && (
+            <p className="film-preview-screening-info">
+              {dateLabel(item.date, { weekday: "short", month: "short", day: "numeric" })} · {timeRange(item)}
+            </p>
+          )}
+          {item.description && <p className="film-preview-description">{item.description}</p>}
+        </div>
+      </div>
+      <div className="film-preview-actions">
+        {item.purchase_links && (
+          <a
+            className="film-preview-ticket-link"
+            href={item.purchase_links}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Ticketing Page
+          </a>
+        )}
+        {conflict && <p className="film-preview-conflict">Overlaps {conflict.name} in your schedule.</p>}
+        <button
+          type="button"
+          className="film-preview-confirm"
+          disabled={Boolean(conflict)}
+          onClick={onConfirm}
+        >
+          {selected ? "Remove from schedule" : "Add to schedule"}
+        </button>
       </div>
     </aside>
   );
@@ -224,9 +292,10 @@ function ScreeningBlock({
   onPreviewEnter,
   onPreviewLeave,
   compact,
+  minuteWidth,
 }) {
   const [background, foreground] = CATEGORY_COLORS[item.category] ?? ["#98a19e", "#111819"];
-  const position = planPosition(item);
+  const position = planPosition(item, minuteWidth);
   const className = [
     "screening-block",
     selected ? "is-selected" : "",
@@ -259,10 +328,11 @@ function ScreeningBlock({
   const blockedDescription = conflict
     ? `Unavailable: overlaps ${conflict.name} at ${clockLabel(conflict.start_offset_minutes)}`
     : "";
+  const subtitle = item.location || (item.director ? `Dir: ${item.director}` : null);
   const title = [
     item.name,
     item.director ? `Director: ${item.director}` : "",
-    item.venue,
+    item.location ? `Location: ${item.location}` : item.venue,
     timeRange(item),
     item.category ?? "Category not listed",
     blockedDescription,
@@ -274,7 +344,7 @@ function ScreeningBlock({
     ? "All other screenings conflict with your plan"
     : "Other screenings are available";
   const selectedOtherDescription = selectedOtherShowing
-    ? `Another showing is in your plan: ${clockLabel(selectedOtherShowing.start_offset_minutes)} at ${selectedOtherShowing.venue}`
+    ? `Another showing is in your plan: ${clockLabel(selectedOtherShowing.start_offset_minutes)} at ${selectedOtherShowing.location || selectedOtherShowing.venue}`
     : "";
   const blockTitle = [title, selectedOtherDescription].filter(Boolean).join(" · ");
   const content = (
@@ -286,12 +356,14 @@ function ScreeningBlock({
           `–${clockLabel(item.end_offset_minutes)}`}
       </span>
       <strong className="screening-title">{item.name}</strong>
-      {item.director && (
-        <span className="screening-director">Dir: {item.director}</span>
+      {subtitle && (
+        <span className="screening-subtitle">{subtitle}</span>
       )}
-      <span className={`screening-venue ${compact && (selected || conflict) ? "has-plan-state" : ""}`}>
-        {shortVenue(item.venue)}
-      </span>
+      {!item.location && (
+        <span className={`screening-venue ${compact && (selected || conflict) ? "has-plan-state" : ""}`}>
+          {shortVenue(item.venue)}
+        </span>
+      )}
       {compact && selected && (
         <span className="export-state-mark is-selected" aria-label="Selected" title="Selected">
           <Check size={9} />
@@ -333,8 +405,8 @@ function ScreeningBlock({
       title={blockTitle}
       aria-pressed={selected}
       aria-disabled={Boolean(conflict)}
-      aria-label={`${item.name}${item.director ? `, directed by ${item.director}` : ""}, ${item.venue}, ${timeRange(item)}${conflict ? `, ${blockedDescription}` : ""}${selectedOtherDescription ? `, ${selectedOtherDescription}` : ""}`}
-      onClick={() => onSelect(item)}
+      aria-label={`${item.name}${item.director ? `, directed by ${item.director}` : ""}, ${item.location || item.venue}, ${timeRange(item)}${conflict ? `, ${blockedDescription}` : ""}${selectedOtherDescription ? `, ${selectedOtherDescription}` : ""}`}
+      onClick={(event) => onSelect(item, event.currentTarget)}
       onMouseEnter={(event) => onPreviewEnter(item, event.currentTarget)}
       onMouseLeave={() => onPreviewLeave("trigger")}
       onFocus={(event) => onPreviewEnter(item, event.currentTarget)}
@@ -345,14 +417,14 @@ function ScreeningBlock({
   );
 }
 
-function TimeAxis({ compact }) {
+function TimeAxis({ compact, minuteWidth, trackWidth }) {
   const ticks = [];
-  for (let minute = DAY_START; minute <= DAY_END; minute += 120) {
+  for (let minute = DAY_START; minute < DAY_END; minute += 120) {
     ticks.push(
       <span
         className="time-tick"
         key={minute}
-        style={{ left: `${(minute - DAY_START) * MINUTE_WIDTH}px` }}
+        style={{ left: `${(minute - DAY_START) * minuteWidth}px` }}
       >
         {clockLabel(minute)}
       </span>,
@@ -361,7 +433,13 @@ function TimeAxis({ compact }) {
   return (
     <div className={`time-axis ${compact ? "is-compact" : ""}`}>
       <span className="axis-venue">VENUE</span>
-      <div className="axis-track" style={{ width: TRACK_WIDTH }}>
+      <div
+        className="axis-track"
+        style={{
+          width: trackWidth,
+          "--tick-width": `${minuteWidth * 120}px`,
+        }}
+      >
         {ticks}
       </div>
     </div>
@@ -376,6 +454,8 @@ function ScheduleDay({
   onPreviewEnter,
   onPreviewLeave,
   compact = false,
+  trackWidth = TRACK_WIDTH,
+  minuteWidth = MINUTE_WIDTH,
 }) {
   const dayItems = items.filter((item) => item.date === date);
   const filtered = compact ? dayItems : items;
@@ -393,16 +473,28 @@ function ScheduleDay({
           <span className="export-entry-count">{dayItems.length} screenings &amp; events</span>
         </header>
       )}
-      <div className="schedule-table" style={{ "--track-width": `${TRACK_WIDTH}px` }}>
-        <TimeAxis compact={compact} />
+      <div
+        className="schedule-table"
+        style={{
+          "--track-width": `${trackWidth}px`,
+          "--tick-width": `${minuteWidth * 120}px`,
+        }}
+      >
+        <TimeAxis compact={compact} minuteWidth={minuteWidth} trackWidth={trackWidth} />
         {venues.map((venue) => {
           const venueItems = filtered.filter((item) => item.venue === venue);
           const { placements, laneCount } = assignTracks(venueItems);
           return (
             <div className="venue-row" key={`${date}-${venue}`} style={{ "--row-height": `${laneCount * LANE_HEIGHT + 2}px` }}>
-              <div className="venue-name">
-                <span>{venue.startsWith("Film Society") ? "FILM SOCIETY" : venue.toUpperCase()}</span>
-                {venue.startsWith("Film Society") && <strong>{shortVenue(venue).toUpperCase()}</strong>}
+              <div className={`venue-name ${venue.startsWith("Film Society") ? "" : "is-single"}`}>
+                {venue.startsWith("Film Society") ? (
+                  <>
+                    <span>FILM SOCIETY</span>
+                    <strong>{shortVenue(venue).toUpperCase()}</strong>
+                  </>
+                ) : (
+                  <strong>{venue.toUpperCase()}</strong>
+                )}
               </div>
               <div className="venue-track">
                 {placements.map(({ item, lane }) => (
@@ -418,6 +510,7 @@ function ScheduleDay({
                     onPreviewEnter={onPreviewEnter}
                     onPreviewLeave={onPreviewLeave}
                     compact={compact}
+                    minuteWidth={minuteWidth}
                   />
                 ))}
               </div>
@@ -436,6 +529,8 @@ function App() {
     () => new Set(THEATERS.map((theater) => theater.id)),
   );
   const [selectedIds, setSelectedIds] = useState(() => {
+    const sharedSelection = sharedSelectionFromUrl();
+    if (sharedSelection !== null) return sharedSelection;
     try {
       const stored = JSON.parse(localStorage.getItem("pff35-selected-screenings") ?? "[]");
       const validIds = new Set(schedule.map((item) => item.id));
@@ -447,9 +542,17 @@ function App() {
   const [notice, setNotice] = useState("");
   const [isExporting, setIsExporting] = useState(false);
   const [filmPreview, setFilmPreview] = useState(null);
+  const [categoryPreviewCount, setCategoryPreviewCount] = useState(4);
+  const [scheduleTrackWidth, setScheduleTrackWidth] = useState(TRACK_WIDTH);
   const exportRef = useRef(null);
+  const scheduleScrollRef = useRef(null);
+  const mobilePreviewTargetRef = useRef(null);
+  const categoryPreviewRef = useRef(null);
+  const categoryMeasureRef = useRef(null);
+  const categoryOverflowMeasureRef = useRef(null);
   const previewCloseTimer = useRef(null);
   const previewHover = useRef({ trigger: false, preview: false });
+  const previewPinned = useRef(false);
 
   useEffect(
     () => () => window.clearTimeout(previewCloseTimer.current),
@@ -461,6 +564,8 @@ function App() {
       if (event.key === "Escape") {
         window.clearTimeout(previewCloseTimer.current);
         previewHover.current = { trigger: false, preview: false };
+        previewPinned.current = false;
+        mobilePreviewTargetRef.current = null;
         setFilmPreview(null);
       }
     }
@@ -470,20 +575,76 @@ function App() {
 
   useEffect(() => {
     if (!filmPreview) return undefined;
-    function dismissPreview(event) {
-      if (event.target instanceof Element && event.target.closest(".film-preview")) {
+    function dismissPreview() {
+      window.clearTimeout(previewCloseTimer.current);
+      previewHover.current = { trigger: false, preview: false };
+      previewPinned.current = false;
+      mobilePreviewTargetRef.current = null;
+      setFilmPreview(null);
+    }
+    function dismissOutside(event) {
+      if (
+        !filmPreview.pinned ||
+        (event.target instanceof Element && event.target.closest(".film-preview"))
+      ) {
         return;
       }
       window.clearTimeout(previewCloseTimer.current);
       previewHover.current = { trigger: false, preview: false };
+      previewPinned.current = false;
+      mobilePreviewTargetRef.current = null;
       setFilmPreview(null);
     }
-    window.addEventListener("scroll", dismissPreview, true);
     window.addEventListener("resize", dismissPreview);
+    window.addEventListener("click", dismissOutside, true);
     return () => {
-      window.removeEventListener("scroll", dismissPreview, true);
       window.removeEventListener("resize", dismissPreview);
+      window.removeEventListener("click", dismissOutside, true);
     };
+  }, [filmPreview]);
+
+  useLayoutEffect(() => {
+    const target = mobilePreviewTargetRef.current;
+    if (!filmPreview?.pinned || !target) return undefined;
+
+    const preview = document.querySelector(".film-preview.is-mobile-preview");
+    if (!target.isConnected || !preview) return undefined;
+
+    const gap = 20;
+    const targetRect = target.getBoundingClientRect();
+    const scrollDelta = targetRect.bottom + gap - preview.getBoundingClientRect().top;
+    if (Math.abs(scrollDelta) < 2) return undefined;
+
+    if (scrollDelta < 0 && window.scrollY < -scrollDelta) {
+      const viewportHeight = window.visualViewport?.height ?? window.innerHeight;
+      const targetBottomAtPageTop = targetRect.bottom + window.scrollY;
+      const targetPreviewTop = targetBottomAtPageTop + gap;
+      const currentPreviewTop = preview.getBoundingClientRect().top;
+      const expandedHeight = Math.min(
+        96,
+        Math.max(
+          filmPreview.previewHeight ?? 45,
+          (filmPreview.previewHeight ?? 45) +
+            ((currentPreviewTop - targetPreviewTop) / viewportHeight) * 100,
+        ),
+      );
+      if (expandedHeight > (filmPreview.previewHeight ?? 45) + 0.5) {
+        setFilmPreview((current) =>
+          current?.pinned
+            ? { ...current, previewHeight: expandedHeight }
+            : current,
+        );
+        return undefined;
+      }
+    }
+
+    window.scrollBy({
+      top: scrollDelta,
+      behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches
+        ? "auto"
+        : "smooth",
+    });
+    return undefined;
   }, [filmPreview]);
 
   useEffect(() => {
@@ -538,7 +699,8 @@ function App() {
 
   function showFilmPreview(item, target) {
     window.clearTimeout(previewCloseTimer.current);
-    if (!item.description && !item.director && !item.image_url) return;
+    if (previewPinned.current) return;
+    if (!item.description && !item.director && !item.location && !item.image_url) return;
     previewHover.current.trigger = true;
     setFilmPreview({ item, position: filmPreviewPosition(target) });
   }
@@ -549,6 +711,7 @@ function App() {
   }
 
   function schedulePreviewClose(area) {
+    if (previewPinned.current) return;
     previewHover.current[area] = false;
     window.clearTimeout(previewCloseTimer.current);
     previewCloseTimer.current = window.setTimeout(() => {
@@ -579,6 +742,32 @@ function App() {
       return next;
     });
     setNotice("");
+  }
+
+  function handleScreeningClick(item, target) {
+    if (window.matchMedia("(max-width: 620px), (pointer: coarse)").matches) {
+      window.clearTimeout(previewCloseTimer.current);
+      previewHover.current = { trigger: false, preview: false };
+      previewPinned.current = true;
+      mobilePreviewTargetRef.current = target;
+      setFilmPreview({ item, pinned: true, previewHeight: 45 });
+      return;
+    }
+    toggleSelection(item);
+  }
+
+  function closeFilmPreview() {
+    window.clearTimeout(previewCloseTimer.current);
+    previewHover.current = { trigger: false, preview: false };
+    previewPinned.current = false;
+    mobilePreviewTargetRef.current = null;
+    setFilmPreview(null);
+  }
+
+  function confirmFilmPreview() {
+    if (!filmPreview) return;
+    toggleSelection(filmPreview.item);
+    closeFilmPreview();
   }
 
   function clearPlan() {
@@ -632,73 +821,162 @@ function App() {
     }
   }
 
+  async function shareSchedule() {
+    const url = new URL(window.location.href);
+    url.searchParams.set("plan", [...selectedIds].sort().join(","));
+
+    try {
+      await navigator.clipboard.writeText(url.toString());
+      setNotice("Share link copied to clipboard.");
+    } catch (error) {
+      console.error(error);
+      setNotice("Could not copy the share link. Check clipboard permissions and try again.");
+    }
+  }
+
   const categories = [...new Set(schedule.map((item) => item.category).filter(Boolean))].sort();
+  const categoryKey = categories.join("|");
+
+  useLayoutEffect(() => {
+    const preview = categoryPreviewRef.current;
+    const measure = categoryMeasureRef.current;
+    const overflowMeasure = categoryOverflowMeasureRef.current;
+    if (!preview || !measure || !overflowMeasure) return undefined;
+
+    function updatePreviewCount() {
+      const items = [...measure.children];
+      const widths = items.map((item) => item.getBoundingClientRect().width);
+      const gap = Number.parseFloat(getComputedStyle(preview).columnGap) || 0;
+      const availableWidth = preview.clientWidth;
+      let visibleCount = 0;
+
+      for (let count = categories.length; count >= 0; count -= 1) {
+        const hiddenCount = categories.length - count;
+        overflowMeasure.textContent = hiddenCount > 0 ? `+${hiddenCount}` : "";
+        const itemsWidth = widths
+          .slice(0, count)
+          .reduce((total, width) => total + width, 0);
+        const gapsWidth = Math.max(0, count - 1) * gap;
+        const overflowWidth = hiddenCount > 0
+          ? (count > 0 ? gap : 0) + overflowMeasure.getBoundingClientRect().width
+          : 0;
+
+        if (itemsWidth + gapsWidth + overflowWidth <= availableWidth) {
+          visibleCount = count;
+          break;
+        }
+      }
+
+      setCategoryPreviewCount(visibleCount);
+    }
+
+    const observer = new ResizeObserver(updatePreviewCount);
+    observer.observe(preview);
+    updatePreviewCount();
+    return () => observer.disconnect();
+  }, [categoryKey]);
+
+  useLayoutEffect(() => {
+    const scrollElement = scheduleScrollRef.current;
+    if (!scrollElement) return undefined;
+
+    function updateTrackWidth() {
+      const venueWidth =
+        Number.parseFloat(
+          getComputedStyle(document.documentElement).getPropertyValue("--venue-width"),
+        ) || 152;
+      setScheduleTrackWidth(
+        Math.max(TRACK_WIDTH, scrollElement.clientWidth - venueWidth),
+      );
+    }
+
+    const observer = new ResizeObserver(updateTrackWidth);
+    observer.observe(scrollElement);
+    window.addEventListener("resize", updateTrackWidth);
+    updateTrackWidth();
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("resize", updateTrackWidth);
+    };
+  }, []);
 
   return (
-    <main className="app-shell">
-      <header className="topbar">
-        <div className="brand-lockup">
-          <div className="brand-stamp" aria-label="Philadelphia Film Festival 35">
-            <span>PFF</span>
-            <strong>35</strong>
+    <main
+      className={`app-shell ${filmPreview?.pinned ? "has-mobile-preview" : ""}`}
+      style={
+        filmPreview?.pinned
+          ? { "--mobile-preview-height": `${filmPreview.previewHeight ?? 45}dvh` }
+          : undefined
+      }
+    >
+      <div className="mobile-sticky-header">
+        <header className="topbar">
+          <div className="brand-lockup">
+            <div className="brand-stamp" aria-label="Philadelphia Film Festival 35">
+              <span>PFF</span>
+              <strong>35</strong>
+            </div>
+            <div>
+              <p className="eyebrow">Philadelphia Film Festival</p>
+              <h1>Build Your Schedule</h1>
+            </div>
           </div>
-          <div>
-            <p className="eyebrow">Philadelphia Film Festival</p>
-            <h1>Build Your Schedule</h1>
+          <div className="top-actions">
+            <div className="selection-counter" aria-live="polite">
+              <span className="counter-mark"><Check size={14} /></span>
+              <strong>{selected.length}</strong>
+              <span>selected</span>
+            </div>
+            <button className="clear-button" type="button" onClick={clearPlan} disabled={!selected.length} title="Clear all selections">
+              <X size={16} />
+              <span>Clear</span>
+            </button>
+            <button className="share-button" type="button" onClick={shareSchedule} disabled={!selected.length}>
+              <Share2 size={16} />
+              <span>Share</span>
+            </button>
+            <button className="download-button" type="button" onClick={downloadSchedule} disabled={isExporting}>
+              <Download size={17} />
+              <span>{isExporting ? "Preparing PDF…" : "Download schedule PDF"}</span>
+            </button>
           </div>
-        </div>
-        <div className="top-actions">
-          <div className="selection-counter" aria-live="polite">
-            <span className="counter-mark"><Check size={14} /></span>
-            <strong>{selected.length}</strong>
-            <span>selected</span>
-          </div>
-          <button className="clear-button" type="button" onClick={clearPlan} disabled={!selected.length} title="Clear all selections">
-            <X size={16} />
-            <span>Clear</span>
-          </button>
-          <button className="download-button" type="button" onClick={downloadSchedule} disabled={isExporting}>
-            <Download size={17} />
-            <span>{isExporting ? "Preparing PDF…" : "Download schedule PDF"}</span>
-          </button>
-        </div>
-      </header>
+        </header>
 
-      <section className="date-section" aria-label="Festival dates">
-        <div className="date-section-heading">
-          <div className="section-kicker"><CalendarDays size={15} /> OCTOBER 15–25, 2026</div>
-          <div className="date-arrows">
-            <button type="button" aria-label="Previous day" onClick={() => setActiveDate(allDates[Math.max(0, activeIndex - 1)])} disabled={activeIndex === 0}>
-              <ChevronLeft size={17} />
-            </button>
-            <button type="button" aria-label="Next day" onClick={() => setActiveDate(allDates[Math.min(allDates.length - 1, activeIndex + 1)])} disabled={activeIndex === allDates.length - 1}>
-              <ChevronRight size={17} />
-            </button>
-          </div>
-        </div>
-        <nav className="date-tabs" aria-label="Select festival date">
-          {allDates.map((date) => {
-            const isActive = date === activeDate;
-            const hasMatches = matchingDates.has(date);
-            const count = selected.filter((item) => item.date === date).length;
-            return (
-              <button
-                className={`date-tab ${isActive ? "is-active" : ""} ${hasMatches ? "" : "has-no-matches"}`}
-                type="button"
-                key={date}
-                aria-current={isActive ? "date" : undefined}
-                aria-label={`${dateLabel(date)}${hasMatches ? "" : ", no search matches"}`}
-                title={hasMatches ? undefined : "No screenings match your search"}
-                onClick={() => setActiveDate(date)}
-              >
-                <span>{dateLabel(date, { weekday: "short" }).toUpperCase()}</span>
-                <strong>{date.slice(8)}</strong>
-                <i className={count ? "has-selections" : ""} aria-label={count ? `${count} selected` : undefined} />
+        <section className="date-section" aria-label="Festival dates">
+          <div className="date-section-heading">
+            <div className="section-kicker"><CalendarDays size={15} /> OCTOBER 15–25, 2026</div>
+            <div className="date-arrows">
+              <button type="button" aria-label="Previous day" onClick={() => setActiveDate(allDates[Math.max(0, activeIndex - 1)])} disabled={activeIndex === 0}>
+                <ChevronLeft size={17} />
               </button>
-            );
-          })}
-        </nav>
-      </section>
+              <button type="button" aria-label="Next day" onClick={() => setActiveDate(allDates[Math.min(allDates.length - 1, activeIndex + 1)])} disabled={activeIndex === allDates.length - 1}>
+                <ChevronRight size={17} />
+              </button>
+            </div>
+          </div>
+          <nav className="date-tabs" aria-label="Select festival date">
+            {allDates.map((date) => {
+              const isActive = date === activeDate;
+              const hasMatches = matchingDates.has(date);
+              const count = selected.filter((item) => item.date === date).length;
+              return (
+                <button
+                  className={`date-tab ${isActive ? "is-active" : ""} ${hasMatches ? "" : "has-no-matches"}`}
+                  type="button"
+                  key={date}
+                  aria-current={isActive ? "date" : undefined}
+                  aria-label={`${dateLabel(date)}${hasMatches ? "" : ", no search matches"}`}
+                  title={hasMatches ? undefined : "No screenings match your search"}
+                  onClick={() => setActiveDate(date)}
+                >
+                  <span>{dateLabel(date, { weekday: "short" }).toUpperCase()}</span>
+                  <strong>{date.slice(8)}</strong>
+                  <i className={count ? "has-selections" : ""} aria-label={count ? `${count} selected` : undefined} />
+                </button>
+              );
+            })}
+          </nav>
+        </section>
 
       <section className="day-toolbar">
         <div className="day-heading">
@@ -739,9 +1017,40 @@ function App() {
           </details>
         </div>
       </section>
+      </div>
 
-      <section className="category-key" aria-label="Film categories">
-        <span className="key-heading">CATEGORY KEY</span>
+      <details className="category-key" aria-label="Film categories">
+        <summary className="category-key-toggle">
+          <span className="key-heading">CATEGORY KEY</span>
+          <span className="category-key-preview" ref={categoryPreviewRef}>
+            {categories.slice(0, categoryPreviewCount).map((category) => (
+              <span className="category-key-preview-item" key={category} title={category}>
+                <i style={{ background: CATEGORY_COLORS[category]?.[0] ?? "#98a19e" }} />
+                <span>{category}</span>
+              </span>
+            ))}
+            {categoryPreviewCount < categories.length && (
+              <span className="category-key-overflow">
+                +{categories.length - categoryPreviewCount}
+              </span>
+            )}
+            <span className="category-key-measure" ref={categoryMeasureRef} aria-hidden="true">
+              {categories.map((category) => (
+                <span className="category-key-preview-item" key={category}>
+                  <i style={{ background: CATEGORY_COLORS[category]?.[0] ?? "#98a19e" }} />
+                  <span>{category}</span>
+                </span>
+              ))}
+            </span>
+            <span
+              className="category-key-overflow category-key-overflow-measure"
+              ref={categoryOverflowMeasureRef}
+              aria-hidden="true"
+            />
+          </span>
+          <span className="category-key-count">{categories.length} categories</span>
+          <ChevronDown size={14} aria-hidden="true" />
+        </summary>
         <div className="category-list">
           {categories.map((category) => (
             <span className="key-item" key={category}>
@@ -750,30 +1059,41 @@ function App() {
             </span>
           ))}
         </div>
-      </section>
+      </details>
 
       <div className="schedule-frame">
         <div className="scroll-cue">← SCROLL TO VIEW LATE SHOWS →</div>
-        <div className="schedule-scroll">
+        <div className="schedule-scroll" ref={scheduleScrollRef}>
           <ScheduleDay
             date={activeDate}
             items={visibleItems}
             status={planStatus}
-            onSelect={toggleSelection}
+            onSelect={handleScreeningClick}
             onPreviewEnter={showFilmPreview}
             onPreviewLeave={schedulePreviewClose}
+            trackWidth={scheduleTrackWidth}
+            minuteWidth={scheduleTrackWidth / (DAY_END - DAY_START)}
           />
           {visibleItems.length === 0 && <p className="empty-state">No screenings match that search.</p>}
         </div>
       </div>
 
       {filmPreview && (
-        <FilmPreview
-          item={filmPreview.item}
-          position={filmPreview.position}
-          onMouseEnter={enterFilmPreview}
-          onMouseLeave={() => schedulePreviewClose("preview")}
-        />
+        createPortal(
+          <FilmPreview
+            item={filmPreview.item}
+            position={filmPreview.position}
+            pinned={filmPreview.pinned}
+            previewHeight={filmPreview.previewHeight}
+            selected={selectedIds.has(filmPreview.item.id)}
+            conflict={blockedBy.get(filmPreview.item.id)}
+            onConfirm={confirmFilmPreview}
+            onClose={closeFilmPreview}
+            onMouseEnter={enterFilmPreview}
+            onMouseLeave={() => schedulePreviewClose("preview")}
+          />,
+          document.body,
+        )
       )}
 
       <footer className="app-footer">

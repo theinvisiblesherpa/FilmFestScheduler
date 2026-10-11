@@ -18,7 +18,8 @@
     "description": "Playing within the confines of a traditional Japanese ghost story, PFF fave Dave Boyle (Man From Reno, PFF23) returns with a bone-chilling tale of a medium hired to investigate a strange occurrence at an isolated country home.",
     "director": "DAVE BOYLE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Never-After-Dark-ML-1024x575.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Never-After-Dark-ML-1024x575@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Never-After-Dark-ML-1024x575@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662062"
   },
   {
     "name": "THE ONLY LIVING PICKPOCKET IN N.Y.",
@@ -39,7 +40,8 @@
     "description": "A love letter to old-school New York, The Only Living Pickpocket in New York is both a captivating character study and a compelling crime drama about an aging pickpocket who gets himself in over his head.",
     "director": "NOAH SEGAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1-1024x595.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1-1024x595@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1-1024x595@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662071"
   },
   {
     "name": "TANGLES",
@@ -60,7 +62,8 @@
     "description": "Just as Sarah is beginning to build an adult life of her own, her mother’s Alzheimer’s diagnosis forces her to navigate caregiving, duty, and the slow grief of losing someone still beside her.",
     "director": "LEAH NELSON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Tangles-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Tangles-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Tangles-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662099"
   },
   {
     "name": "LOVE IS THE MONSTER",
@@ -81,26 +84,29 @@
     "description": "A chilling dystopian thriller presenting a tense, deeply unsettling vision of society, Love Is the Monster explores the complexities of family and contemplates the moral question of how far a person might go to protect the people they love.",
     "director": "NETO VILLALOBOS BRENES",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Love-is-the-Monster-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Love-is-the-Monster-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Love-is-the-Monster-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662045"
   },
   {
     "name": "OPENING NIGHT PARTY",
     "date": "2026-10-15",
     "start_time": "21:00",
     "start_time_as_printed": "9:00",
-    "end_time": null,
+    "end_time": "01:00",
     "run_time_minutes": null,
-    "category": null,
+    "category": "Events",
     "venue": "Events",
     "start_offset_minutes": 1260,
-    "end_offset_minutes": null,
+    "end_offset_minutes": 1500,
     "id": "02a772f3-1ed9-5f9d-8045-62fa58c25087",
     "Total_Screenings": 1,
     "Other_Screenings": [],
-    "description": null,
+    "description": "Presented by Cherry Hill Imports Auto Group, buckle up for an unforgettable night of food, drinks and plenty of fun featuring DJ Dommis, live art by Lawren Alice, a whiskey tasting by Dad’s Hat Pennsylvania Rye Whiskey, with special guest Letterboxd and more!",
     "director": null,
-    "image_url": null,
-    "image_url_2x": null
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662162&_gl=1*yfkki6*_ga*NDAyMjMxNzcxLjE3NzI2Mzg1OTc.*_ga_F4MD63SBX9*czE3OTEzODQwODIkbzIzMSRnMSR0MTc5MTM4OTE4OCRqNDUkbDAkaDA.",
+    "location": "F1 Arcade (1333 Chestnut St.)"
   },
   {
     "name": "NEVER AFTER DARK",
@@ -121,7 +127,8 @@
     "description": "Playing within the confines of a traditional Japanese ghost story, PFF fave Dave Boyle (Man From Reno, PFF23) returns with a bone-chilling tale of a medium hired to investigate a strange occurrence at an isolated country home.",
     "director": "DAVE BOYLE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Never-After-Dark-ML-1024x575.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Never-After-Dark-ML-1024x575@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Never-After-Dark-ML-1024x575@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662063"
   },
   {
     "name": "THE ONLY LIVING PICKPOCKET IN N.Y.",
@@ -142,7 +149,8 @@
     "description": "A love letter to old-school New York, The Only Living Pickpocket in New York is both a captivating character study and a compelling crime drama about an aging pickpocket who gets himself in over his head.",
     "director": "NOAH SEGAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1-1024x595.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1-1024x595@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1-1024x595@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662072"
   },
   {
     "name": "THE ASSASSIN(S)",
@@ -163,7 +171,8 @@
     "description": "Based on the attempted assassination of South Korean President Park Chung-hee, The Assassin(s) is a gripping historical conspiracy thriller in the vein of JFK with a bit of Spotlight and Chinatown sprinkled in.",
     "director": "HUR JIN-HO",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Assassins-The-ML-1-1024x640.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Assassins-The-ML-1-1024x640@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Assassins-The-ML-1-1024x640@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661934"
   },
   {
     "name": "VIVA CARMEN",
@@ -184,7 +193,8 @@
     "description": "In this ravishing animated adaptation of Bizet's opera, a blind knife grinder's blades reveal Carmen's tragic fate, sending a young boy and a band of misfit street kids racing to rewrite destiny.",
     "director": "SÉBASTIEN LAUDENBACH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Viva-Carmen-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Viva-Carmen-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Viva-Carmen-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662110"
   },
   {
     "name": "GROUND FLOOR",
@@ -205,7 +215,8 @@
     "description": "Just before departing for a holiday with his wife, Kristóf discovers black mold in their apartment. What starts as a simple inquiry into how the mold got there turns into a building-wide conspiracy in this surreal political satire.",
     "director": "GÁBOR REISZ",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ground-Floor-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ground-Floor-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ground-Floor-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662004"
   },
   {
     "name": "FLIES",
@@ -226,7 +237,8 @@
     "description": "In search of some extra cash, solitary Olga rents out a room in her apartment. The arrangement seems simple enough until an awfully persistent little intruder slips in, changing her life forever.",
     "director": "FERNANDO EIMBCKE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Flies-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Flies-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Flies-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661998"
   },
   {
     "name": "WE ARE ALL STRANGERS",
@@ -247,7 +259,8 @@
     "description": "Two generations deal with love, loss, and hardship in this masterful portrait of family from acclaimed Singaporean auteur Anthony Chen (THE BREAKING ICE PFF32, ILO ILO PFF22).",
     "director": "ANTHONY CHEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-All-Strangers-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-All-Strangers-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-All-Strangers-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662117"
   },
   {
     "name": "BUNKER",
@@ -268,7 +281,8 @@
     "description": "Javier Bardem and Penélope Cruz deliver powerful performances in this gripping domestic drama about an architect whose latest project opens fault lines in his seemingly perfect marriage.",
     "director": "FLORIAN ZELLER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Bunker-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bunker-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bunker-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661955"
   },
   {
     "name": "REHEARSALS FOR A REVOLUTION",
@@ -289,7 +303,8 @@
     "description": "An Iranian filmmaker and activist looks back on the people who shaped her, transforming their private stories into a broader study of Iran’s long struggle for change and enduring hope.",
     "director": "PEGAH AHANGARANI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Rehearsals-for-a-Revolution-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rehearsals-for-a-Revolution-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rehearsals-for-a-Revolution-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662082"
   },
   {
     "name": "LOVE IS THE MONSTER",
@@ -310,7 +325,8 @@
     "description": "A chilling dystopian thriller presenting a tense, deeply unsettling vision of society, Love Is the Monster explores the complexities of family and contemplates the moral question of how far a person might go to protect the people they love.",
     "director": "NETO VILLALOBOS BRENES",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Love-is-the-Monster-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Love-is-the-Monster-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Love-is-the-Monster-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662047"
   },
   {
     "name": "SALVATION",
@@ -331,7 +347,8 @@
     "description": "In a secluded Turkish village, a leader's brother is gripped by seemingly prophetic visions, sparking religious paranoia and chaos that threatens the entire community.",
     "director": "EMIN ALPER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Salvation-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Salvation-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Salvation-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662091"
   },
   {
     "name": "THE BURNING GIANTS",
@@ -353,7 +370,8 @@
     "description": "As a mysterious poisonous fog drifts across the mountains and threatens inhabitants, Thai authorities attempt to remove the last remaining member of the Indigenous Karen people in this hypnotic and surreal dystopian drama.",
     "director": "PHUTTIPHONG AROONPHENG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Burning-Giants-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Burning-Giants-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Burning-Giants-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661957"
   },
   {
     "name": "YELLOW LETTERS",
@@ -374,7 +392,8 @@
     "description": "This Berlinale prizewinner is an absorbing look at an artist couple who must either sacrifice their morals in the face of fascism or choose to put their family, careers, and marriage in danger.",
     "director": "ILKER ÇATAK",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Yellow-Letters-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Yellow-Letters-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Yellow-Letters-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662133"
   },
   {
     "name": "HANGING BY A WIRE",
@@ -395,7 +414,8 @@
     "description": "A routine commute turns into a nightmare when eight passengers are stranded in a cable car hanging by a single line above a mountainous Pakistani valley, triggering a remarkable rescue attempt.",
     "director": "MOHAMMED ALI NAQVI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Hanging-by-a-Wire-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Hanging-by-a-Wire-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Hanging-by-a-Wire-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662009"
   },
   {
     "name": "PAPER TIGER",
@@ -414,7 +434,8 @@
     "description": "Auteur James Gray’s latest masterpiece is a compelling tale of ambition gone wrong in search of the American Dream.",
     "director": "JAMES GRAY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Paper-Tiger-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Paper-Tiger-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Paper-Tiger-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662073"
   },
   {
     "name": "WHEN A WITNESS RECANTS",
@@ -435,7 +456,8 @@
     "description": "Three Black teenagers wrongfully convicted of a 1983 murder spend decades incarcerated before the truth eventually emerges, exposing a fractured justice system built on coerced child witnesses and the unfortunate cost of stolen lives.",
     "director": "DAWN PORTER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/When-A-Witness-Recants-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/When-A-Witness-Recants-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/When-A-Witness-Recants-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662120"
   },
   {
     "name": "YALE",
@@ -456,7 +478,8 @@
     "description": "With her son's life on the line, a desperate mother forces her way back into the life of her deadbeat father, joining him on an unlikely road trip to find a kidney donor for her son.",
     "director": "JAY SILVERMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Yale-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Yale-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Yale-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662130"
   },
   {
     "name": "THE LAST CRITIC",
@@ -477,7 +500,8 @@
     "description": "Still writing and reviewing after six decades, self-anointed “Dean of American Rock Critics” Robert Christgau reflects on his career in this warm, witty celebration of music criticism.",
     "director": "MATTY WISHNOW",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Last-Critic-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Last-Critic-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Last-Critic-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662037"
   },
   {
     "name": "QUEEN AT SEA",
@@ -498,7 +522,8 @@
     "description": "When a woman with advanced dementia becomes the center of a bitter family dispute over care and consent, those who love her most are forced to confront who has the right to decide what is best.",
     "director": "LANCE HAMMER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Queen-At-Sea-ML-1024x582.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Queen-At-Sea-ML-1024x582@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Queen-At-Sea-ML-1024x582@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662076"
   },
   {
     "name": "CLUB KID",
@@ -517,7 +542,8 @@
     "description": "After a decade throwing the hottest, drug-fuelled parties in New York City, nothing could cure Peter’s permanent hangover until the son he never knew he had showed up at his door and sobered him right up in triple-threat Jordan Firstman’s hilariously raunchy, yet tenderly sweet debut.",
     "director": "JORDAN FIRSTMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Club-Kid-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Club-Kid-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Club-Kid-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661967"
   },
   {
     "name": "LABRADOR — AUTOPSY OF SILENCE",
@@ -538,7 +564,8 @@
     "description": "An icy murder mystery set aboard a vast freighter at sea serves as the framework for this moody tale of colonization and sexuality.",
     "director": "RODRIGUE JEAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Labrador-Autopsy-of-Silence-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Labrador-Autopsy-of-Silence-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Labrador-Autopsy-of-Silence-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662035"
   },
   {
     "name": "VERTIGINOUS",
@@ -559,7 +586,8 @@
     "description": "From the gonzo mind of Quentin Dupieux, Vertiginous is a sharp satire that confronts the question of whether reality as we know it is really real.",
     "director": "QUENTIN DUPIEUX",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Vertiginous-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Vertiginous-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Vertiginous-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662107"
   },
   {
     "name": "SICK",
@@ -580,7 +608,8 @@
     "description": "An intense and frequently inappropriate sibling dynamic is salaciously explored in this unhinged coming-of-age story about a brother and sister who are sent off to the countryside to take care of their ailing grandmother but seem to have more interest in each other.",
     "director": "AGATA TRZEBUCHOWSKA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Sick-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Sick-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Sick-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662097"
   },
   {
     "name": "TOO MANY BEASTS",
@@ -601,7 +630,8 @@
     "description": "Brimming with hogs and hilarity, this pitch-black comedy finds an unstable cop getting entangled in a local mystery after a feud between farmers and a boar-hunting group comes to a head.",
     "director": "SARAH ARNOLD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Too-Many-Beasts-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Too-Many-Beasts-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Too-Many-Beasts-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662089"
   },
   {
     "name": "IRON BOY",
@@ -622,7 +652,8 @@
     "description": "In this animated watercolor gem, an 11-year-old boy in rural France begins collapsing without warning until an iron corset tears him away from the only world he has ever known.",
     "director": "LOUIS CLICHY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Iron-Boy-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Iron-Boy-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Iron-Boy-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662022"
   },
   {
     "name": "CLARISSA",
@@ -643,26 +674,29 @@
     "description": "An affluent woman's extravagant party brings former friends and lovers back into her orbit in this alluring reimagining of Virginia Woolf's Mrs. Dalloway starring Sophie Okonedo.",
     "director": "ARIE ESIRI, CHUKO ESIRI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Clarissa-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Clarissa-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Clarissa-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661964"
   },
   {
     "name": "FILMMAKER MEET UP",
     "date": "2026-10-17",
     "start_time": "11:00",
     "start_time_as_printed": "11:00",
-    "end_time": null,
+    "end_time": "14:00",
     "run_time_minutes": null,
-    "category": null,
+    "category": "Events",
     "venue": "Events",
     "start_offset_minutes": 660,
-    "end_offset_minutes": null,
+    "end_offset_minutes": 840,
     "id": "e1927ba1-ab9e-55a2-82d6-4f74510f8280",
     "Total_Screenings": 1,
     "Other_Screenings": [],
-    "description": null,
+    "description": "Join the local filmmaking community to network and pitch your projects to make something happen! Grab a coffee, connect with other local creators, and browse local brands and organizations that can help bring your projects to life. Free event.",
     "director": null,
-    "image_url": null,
-    "image_url_2x": null
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/industry-mixer-2026-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/industry-mixer-2026-1024x560@2x.webp",
+    "purchase_links": null,
+    "location": "Film Festival Lounge (125 Sansom Walk)"
   },
   {
     "name": "SEIZED",
@@ -684,7 +718,8 @@
     "description": "Equally hilarious and unsettling, this astonishing documentary traces the unfounded police raid that transformed an unassuming Midwestern newsroom into the unlikely center of a national debate over the First Amendment.",
     "director": "SHARON LIESE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Seized-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Seized-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Seized-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662093"
   },
   {
     "name": "FATHERLAND",
@@ -705,7 +740,8 @@
     "description": "Sandra Hüller delivers a powerfully restrained performance as the daughter of writer Thomas Mann in this immaculately crafted drama following the expat author’s tumultuous return to Germany after WWII.",
     "director": "PAWEL PAWLIKOWSKI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Fatherland-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Fatherland-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Fatherland-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661993"
   },
   {
     "name": "BRIAN",
@@ -726,7 +762,8 @@
     "description": "In this uproarious coming-of-age comedy, a socially hapless teen runs for class president to spend more time with the teacher he’s crushing on, recruiting the school’s magnetic new kid to be his campaign manager in the process.",
     "director": "WILL ROPP",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Brian-ML.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Brian-ML@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Brian-ML@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661952"
   },
   {
     "name": "MY UNDESIRABLE FRIENDS: PART I — LAST AIR IN MOSCOW",
@@ -745,7 +782,8 @@
     "description": "One of the most universally lauded documentaries in recent years, this immense and important portrait probes the invasion of Ukraine through the lenses of the independent journalists trying to report the truth with integrity.",
     "director": "JULIA LOKTEV",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/My-Undesirable-Friends-Part-I-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/My-Undesirable-Friends-Part-I-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/My-Undesirable-Friends-Part-I-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662058"
   },
   {
     "name": "BIG PHAN",
@@ -766,7 +804,8 @@
     "description": "He’s a big, furry creature from Broad Street. The Phillie Phanatic finally gets his close-up in a biopic capturing the magic and mayhem of a baseball legend.",
     "director": "HOAG KEPNER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Big-Phan-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Big-Phan-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Big-Phan-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661943"
   },
   {
     "name": "COWARD",
@@ -787,7 +826,8 @@
     "description": "Belgian auteur Lukas Dhont returns with a graceful, heartbreaking tale of young soldiers whose fragile connection is tested by the devastating machinery of war on the frontlines of WWI.",
     "director": "LUKAS DHONT",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Coward-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Coward-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Coward-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661970"
   },
   {
     "name": "NARRATIVE SHORTS PROGRAM",
@@ -808,7 +848,8 @@
     "description": "Includes: We Were Here / A Crime Across Four Landscapes / Spiritus Sanctus / Gamberra / Nobody Said Anything / Crisis Actor / The Dream is a Snail",
     "director": null,
     "image_url": null,
-    "image_url_2x": null
+    "image_url_2x": null,
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662146"
   },
   {
     "name": "ONCE UPON A TIME IN HARLEM",
@@ -829,7 +870,8 @@
     "description": "In this monumental posthumous documentary from William Greaves, legendary voices of the Harlem Renaissance gather at Duke Ellington’s townhouse in 1972 to reminisce, debate, and pass on the wisdom of a generation that reshaped American culture.",
     "director": "DAVID GREAVES, WILLIAM GREAVES",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Once-Upon-a-Time-in-Harlem-ML-1024x577.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Once-Upon-a-Time-in-Harlem-ML-1024x577@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Once-Upon-a-Time-in-Harlem-ML-1024x577@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662069"
   },
   {
     "name": "WE ARE ALIENS",
@@ -850,7 +892,8 @@
     "description": "Kohei Kadowaki’s feature directorial debut traces a beautiful friendship that blossoms between two schoolboys, and the moment of betrayal that shatters it, sending the consequences rippling across the rest of their lives.",
     "director": "KOHEI KADOWAKI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-Aliens-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-Aliens-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-Aliens-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662112"
   },
   {
     "name": "ALL OF A SUDDEN",
@@ -869,7 +912,8 @@
     "description": "A chance encounter changes the lives of two women forever in Ryusuke Hamaguchi’s magnificent new film about the radical act of compassion and the transcendental effects art can have on self and community.",
     "director": "RYÛSUKE HAMAGUCHI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/All-of-a-Sudden-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/All-of-a-Sudden-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/All-of-a-Sudden-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661930"
   },
   {
     "name": "JEAN-MICHEL BASQUIAT",
@@ -890,7 +934,8 @@
     "description": "Nearly 40 years after his untimely passing, Jean-Michel Basquiat’s family looks back at the life and blazing talent of one of the 20th century’s most celebrated and influential artists.",
     "director": "QUINN WHITNEY WILSON, VIRIDIANA LIEBERMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Jean-Michel-Basquiat-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Jean-Michel-Basquiat-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Jean-Michel-Basquiat-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662024"
   },
   {
     "name": "ELEPHANTS IN THE FOG",
@@ -911,7 +956,8 @@
     "description": "In a rural Nepalese village, surrounded by lush forests and wild elephants, the matriarch of a transgender community has her life upended when her adopted daughter disappears. In her quest to find her, she risks the tenuous safety of her people as well as her own life in this mystery thriller.",
     "director": "ABINASH BIKRAM SHAH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Elephants-in-the-Fog-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Elephants-in-the-Fog-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Elephants-in-the-Fog-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661983"
   },
   {
     "name": "ANIMATED SHORTS PROGRAM",
@@ -932,7 +978,8 @@
     "description": "Includes : Cartoon Physics / Marble & Lemons / Terminal / Ivar / Busy Bodies / Because Today is Saturday / The End / Living with a Visionary",
     "director": null,
     "image_url": "https://filmadelphia.org/wp-content/uploads/2024/09/Animated-Shorts-Program_web-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2024/09/Animated-Shorts-Program_web-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2024/09/Animated-Shorts-Program_web-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662138"
   },
   {
     "name": "THE MATCH",
@@ -953,7 +1000,8 @@
     "description": "Forty years after the world witnessed the “Hand of God,” The Match returns to the legendary 1986 World Cup quarter-final between England and Argentina with a riveting reconstruction of the mythical showdown from every angle.",
     "director": "JUAN CABRAL, SANTIAGO FRANCO",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Match-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Match-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Match-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662050"
   },
   {
     "name": "BEDFORD PARK",
@@ -974,7 +1022,8 @@
     "description": "Following a car accident, two Korean Americans, each burdened by a troubled past, are brought together and form an unlikely romance in this tender debut feature.",
     "director": "STEPHANIE AHN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Bedford-Park-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bedford-Park-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bedford-Park-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661936"
   },
   {
     "name": "LA BOLA NEGRA",
@@ -993,7 +1042,8 @@
     "description": "Set before, during, and after the transformative Spanish Civil War, La Bola Negra is an operatic historical epic that tells the story of three men fundamentally connected by a shared history of love, loss, and inheritance across three distinct time periods: 1932, 1937, and 2017.",
     "director": "JAVIER CALVO, JAVIER AMBROSSI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/La-Bola-Negra-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/La-Bola-Negra-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/La-Bola-Negra-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662032"
   },
   {
     "name": "SENTIENT",
@@ -1014,7 +1064,8 @@
     "description": "Primate testing has driven medical breakthroughs, but as science evolves and technology advances, many ask whether experimentation on our closest animal relatives still has a place in medicine.",
     "director": "TONY JONES",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Sentient-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Sentient-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Sentient-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662095"
   },
   {
     "name": "FILMADELPHIA SHORTS PROGRAM",
@@ -1035,7 +1086,8 @@
     "description": "Includes: Philly Pretzels / The Second Life of Freddie Nole / Deuce Purgatory / Six Sixty Six / Casualty / Fletcher Street / The Wonka of Worcester",
     "director": null,
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Six-Sixty-Six-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Six-Sixty-Six-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Six-Sixty-Six-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662143"
   },
   {
     "name": "WE ARE THE SHAGGS",
@@ -1056,7 +1108,8 @@
     "description": "After decades of baffling and fascinating listeners with loopy ditties like “My Pal Foot Foot,” sister trio The Shaggs finally gets a chance to tell their story in this affectionate and hilarious deep dive into one of the most misunderstood bands of all time.",
     "director": "KEN KWAPIS",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-The-Shaggs-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-The-Shaggs-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-The-Shaggs-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662118"
   },
   {
     "name": "THE BLOW",
@@ -1077,7 +1130,8 @@
     "description": "The looming release of their troubled father from jail divides siblings Enzo and Carla, forcing the two to confront their deep-seated pain in Julien Gaspar-Oliveri’s evocative and powerful drama.",
     "director": "JULIEN GASPAR-OLIVERI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Blow-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Blow-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Blow-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661948"
   },
   {
     "name": "THE HAUNTING OF PENNHURST",
@@ -1098,7 +1152,8 @@
     "description": "At a former institution for people with disabilities, a haunted attraction employs disabled performers who confront the site’s abusive past while reclaiming its story on their own terms.",
     "director": "NATHAN STENBERG, MIKE ATTIE, KATARINA POLJAK",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Haunting-of-Pennhurst-The-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Haunting-of-Pennhurst-The-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Haunting-of-Pennhurst-The-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662011"
   },
   {
     "name": "UGLY CRY",
@@ -1119,7 +1174,8 @@
     "description": "An aspiring Hollywood actress is told after an audition that she has an \"ugly cry.\" That single, scathing comment unravels her career, her sense of self, and eventually, her grip on reality.",
     "director": "EMILY ROBINSON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ugly-Cry-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ugly-Cry-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ugly-Cry-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662105"
   },
   {
     "name": "5 MORE MINUTES",
@@ -1140,7 +1196,8 @@
     "description": "Time is of the essence for a crumbling marriage when an attempt at reconciliation via a country getaway goes spectacularly awry after the feuding couple and their host find themselves trapped in an increasingly destructive time loop.",
     "director": "JAVIER RUIZ CALDERA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/5-More-Minutes-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/5-More-Minutes-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/5-More-Minutes-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661920"
   },
   {
     "name": "HALF",
@@ -1161,7 +1218,8 @@
     "description": "One of the most wild late-night films in years pits two half-vampire siblings against a nefarious and gruesome roadside scavenger cabal in a bloody martial arts western destined for instant cult classic status.",
     "director": "SAMJAD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Half-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Half-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Half-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662007"
   },
   {
     "name": "LE FAUX SOIR",
@@ -1182,7 +1240,8 @@
     "description": "Inspired by the unbelievable true story during the German occupation of Belgium, Le Faux Soir is a historical thriller paired with dark humor and the trappings of a heist film.",
     "director": "MICHAËL R. ROSKAM",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Faux-Soir-Le-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Faux-Soir-Le-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Faux-Soir-Le-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662040"
   },
   {
     "name": "VIVA CARMEN",
@@ -1203,26 +1262,29 @@
     "description": "In this ravishing animated adaptation of Bizet's opera, a blind knife grinder's blades reveal Carmen's tragic fate, sending a young boy and a band of misfit street kids racing to rewrite destiny.",
     "director": "SÉBASTIEN LAUDENBACH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Viva-Carmen-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Viva-Carmen-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Viva-Carmen-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662111"
   },
   {
     "name": "MEMBER APPRECIATION BRUNCH",
     "date": "2026-10-18",
     "start_time": "11:00",
     "start_time_as_printed": "11:00",
-    "end_time": null,
+    "end_time": "14:00",
     "run_time_minutes": null,
-    "category": null,
+    "category": "Events",
     "venue": "Events",
     "start_offset_minutes": 660,
-    "end_offset_minutes": null,
+    "end_offset_minutes": 840,
     "id": "6e53749a-248c-580e-ac3a-0d46d73dd5cf",
     "Total_Screenings": 1,
     "Other_Screenings": [],
-    "description": null,
+    "description": "Cap off your first weekend at PFF35 with a brunch just for PFS members. Stop in, catch up with your friends at PFS, and plan the rest of your Festival experience over specialty breakfast cocktails from Philadelphia Distilling, plus coffee and bites from La Colombe. Please present your membership card or digital membership confirmation at the door.",
     "director": null,
-    "image_url": null,
-    "image_url_2x": null
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/member-brunch-2026-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/member-brunch-2026-1024x560@2x.webp",
+    "purchase_links": null,
+    "location": "Film Festival Lounge (125 Sansom Walk)"
   },
   {
     "name": "THE DREAMED ADVENTURE",
@@ -1244,7 +1306,8 @@
     "description": "An archaeologist is pulled back into the criminal underworld of her past in southeast Bulgaria when her friend—and former lover—goes missing without a trace in Valeska Grisebach’s award-winning gangster epic.",
     "director": "VALESKA GRISEBACH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Dreamed-Adventure-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Dreamed-Adventure-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Dreamed-Adventure-The-ML-1024x560@2x.webp",
+    "purchase_links": null
   },
   {
     "name": "CARL SAGAN: WE ARE MADE OF STAR STUFF",
@@ -1265,7 +1328,8 @@
     "description": "Before there was Neil deGrasse Tyson, there was Carl Sagan, the scientist who first brought the cosmos into American living rooms and invited viewers to wonder about the vast universe beyond Earth.",
     "director": "NANETTE BURSTEIN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Carl-Sagan-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Carl-Sagan-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Carl-Sagan-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661960"
   },
   {
     "name": "SEIZED",
@@ -1287,7 +1351,8 @@
     "description": "Equally hilarious and unsettling, this astonishing documentary traces the unfounded police raid that transformed an unassuming Midwestern newsroom into the unlikely center of a national debate over the First Amendment.",
     "director": "SHARON LIESE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Seized-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Seized-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Seized-ML-1-1024x560@2x.webp",
+    "purchase_links": null
   },
   {
     "name": "I'LL BE GONE IN JUNE",
@@ -1308,7 +1373,8 @@
     "description": "A German study abroad student lands in a small New Mexico town just as America is transformed by 9/11 in this wryly observant and gorgeously shot coming-of-age film.",
     "director": "KATHARINA RIVILIS",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/I_ll-Be-Gone-in-June-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I_ll-Be-Gone-in-June-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I_ll-Be-Gone-in-June-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662017"
   },
   {
     "name": "THE MELTDOWN",
@@ -1329,7 +1395,8 @@
     "description": "In this taut and atmospheric mystery set at a snowbound Andean resort, a lonely young girl’s fascination with a teenage guest takes on dark contours when the older girl goes missing.",
     "director": "MANUELA MARTELLI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Meltdown-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Meltdown-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Meltdown-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662052"
   },
   {
     "name": "TENDER LOVING CARE",
@@ -1350,7 +1417,8 @@
     "description": "Mike Leigh’s swan song is a compassionate, clear-eyed look at friendship and family, featuring remarkable performances from a cast including Widow’s Bay breakout Kate O’Flynn.",
     "director": "MIKE LEIGH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Tender-Loving-Care-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Tender-Loving-Care-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Tender-Loving-Care-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662101"
   },
   {
     "name": "EVERYTIME",
@@ -1371,7 +1439,8 @@
     "description": "This haunting and thrillingly ambitious drama finds a grieving single mom, her precocious daughter, and a mixed-up teenage boy forming an unlikely trio as they attempt to make sense of tragedy.",
     "director": "SANDRA WOLLNER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Everytime-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Everytime-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Everytime-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661987"
   },
   {
     "name": "MAKING MARIE ANTOINETTE",
@@ -1392,7 +1461,8 @@
     "description": "Marie Antoinette turns 20 with a never-before-seen portrait of Sofia Coppola at work, captured through her mother Eleanor’s tentative gaze as the young director radically reinvents Versailles.",
     "director": "ELEANOR COPPOLA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Making-Marien-Antoinette-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Making-Marien-Antoinette-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Making-Marien-Antoinette-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662048"
   },
   {
     "name": "NUISANCE BEAR",
@@ -1413,7 +1483,8 @@
     "description": "Tourism, climate change, and human hubris complicate the ancient migration of a young polar bear, exposing the consequences of trying to control the wild rather than respect it in this beautifully framed documentary.",
     "director": "GABRIELA OSIO VANDEN, JACK WEISMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Nuisance-Bear-ML-1024x572.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Nuisance-Bear-ML-1024x572@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Nuisance-Bear-ML-1024x572@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662064"
   },
   {
     "name": "FJORD",
@@ -1432,7 +1503,8 @@
     "description": "Part searing family drama, part captivating legal thriller, this Cannes-winning Romanian film follows a conservative couple clashing with Norwegian child protection laws.",
     "director": "CRISTIAN MUNGIU",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Fjord-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Fjord-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Fjord-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661997"
   },
   {
     "name": "EXTRA GEOGRAPHY",
@@ -1453,7 +1525,8 @@
     "description": "At a girls’ boarding school in England, inseparable best mates Flic and Minna make it their mission to fall in love with the same person at the same time. What could possibly go wrong?",
     "director": "MOLLY MANNERS",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Extra-Geography-1024x559.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Extra-Geography-1024x559@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Extra-Geography-1024x559@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661990"
   },
   {
     "name": "BEN'IMANA",
@@ -1474,7 +1547,8 @@
     "description": "Guiding her community towards healing after genocide, a Rwandan woman faces a personal reckoning when her daughter's unexpected pregnancy forces history's wounds into her own home.",
     "director": "MARIE-CLÉMENTINE DUSABEJAMBO",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ben_Imana-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ben_Imana-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ben_Imana-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661941"
   },
   {
     "name": "NAZA",
@@ -1495,7 +1569,8 @@
     "description": "The co-directors of 2024’s No Other Land return with an explosive look into the systems used to target Palestinians during Israel’s military operations in Gaza.",
     "director": "YUVAL ABRAHAM, RACHEL SZOR",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Naza-ML-1024x554.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Naza-ML-1024x554@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Naza-ML-1024x554@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662060"
   },
   {
     "name": "UGLY CRY",
@@ -1516,7 +1591,8 @@
     "description": "An aspiring Hollywood actress is told after an audition that she has an \"ugly cry.\" That single, scathing comment unravels her career, her sense of self, and eventually, her grip on reality.",
     "director": "EMILY ROBINSON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ugly-Cry-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ugly-Cry-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ugly-Cry-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662106"
   },
   {
     "name": "CHILI FINGER",
@@ -1537,7 +1613,8 @@
     "description": "When a cash-strapped lawyer finds a finger in her fast-food chili, she sees an answer to her problems, but a demand for payment sparks a darkly comic game of wits and escalating bad decisions.",
     "director": "EDD BENDA, STEPHEN HELSTAD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Chili-Finger-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Chili-Finger-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Chili-Finger-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661962"
   },
   {
     "name": "BEHEMOTH!",
@@ -1556,7 +1633,8 @@
     "description": "In a career-best performance, Pedro Pascal astounds as a cellist confronting his past and the lives he’s lived in Tony Gilroy’s sweeping symphonic elegy to the silver screen.",
     "director": "TONY GILROY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Behemoth-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Behemoth-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Behemoth-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661939"
   },
   {
     "name": "14TH",
@@ -1577,7 +1655,8 @@
     "description": "Examining the historical background and modern application of the 14th Amendment, Ava DuVernay’s 14th  sheds light on the battle around the amendment at a time when it is more relevant and under attack than ever.",
     "director": "AVA DUVERNAY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/14th-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/14th-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/14th-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661916"
   },
   {
     "name": "THE CYCLE",
@@ -1598,7 +1677,8 @@
     "description": "Delicately balancing a variety of genres, The Cycle is a slow-burn crime procedural that transforms from what seems to be a serial killer thriller into something more unexpected.",
     "director": "JORDAN DOWNEY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Cycle-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Cycle-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Cycle-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661972"
   },
   {
     "name": "THE DREAMED ADVENTURE",
@@ -1620,7 +1700,8 @@
     "description": "An archaeologist is pulled back into the criminal underworld of her past in southeast Bulgaria when her friend—and former lover—goes missing without a trace in Valeska Grisebach’s award-winning gangster epic.",
     "director": "VALESKA GRISEBACH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Dreamed-Adventure-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Dreamed-Adventure-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Dreamed-Adventure-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661980"
   },
   {
     "name": "THE DIARY OF A CHAMBERMAID",
@@ -1641,7 +1722,8 @@
     "description": "The latest from provocateur Radu Jude playfully transplants Mirbeau’s classic satire to contemporary France, where a Romanian maid strives for a better life amid precarious circumstances.",
     "director": "RADU JUDE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Diary-of-a-Chambermaid-KL-1024x561.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Diary-of-a-Chambermaid-KL-1024x561@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Diary-of-a-Chambermaid-KL-1024x561@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661976"
   },
   {
     "name": "JOSEPHINE",
@@ -1660,7 +1742,8 @@
     "description": "In this powerful Sundance top prize winner starring Channing Tatum and Gemma Chan, 8-year-old Josephine witnesses a brutal attack, leaving her changed in unexpected ways that her loving parents struggle to make sense of.",
     "director": "BETH DE ARAÚJO",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Josephine-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Josephine-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Josephine-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662026"
   },
   {
     "name": "WE ARE ALL STRANGERS",
@@ -1681,7 +1764,8 @@
     "description": "Two generations deal with love, loss, and hardship in this masterful portrait of family from acclaimed Singaporean auteur Anthony Chen (THE BREAKING ICE PFF32, ILO ILO PFF22).",
     "director": "ANTHONY CHEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-All-Strangers-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-All-Strangers-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-All-Strangers-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662116"
   },
   {
     "name": "BEN'IMANA",
@@ -1702,7 +1786,8 @@
     "description": "Guiding her community towards healing after genocide, a Rwandan woman faces a personal reckoning when her daughter's unexpected pregnancy forces history's wounds into her own home.",
     "director": "MARIE-CLÉMENTINE DUSABEJAMBO",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ben_Imana-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ben_Imana-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ben_Imana-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661942"
   },
   {
     "name": "THE BLOW",
@@ -1723,7 +1808,8 @@
     "description": "The looming release of their troubled father from jail divides siblings Enzo and Carla, forcing the two to confront their deep-seated pain in Julien Gaspar-Oliveri’s evocative and powerful drama.",
     "director": "JULIEN GASPAR-OLIVERI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Blow-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Blow-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Blow-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661949"
   },
   {
     "name": "A LONG WINTER",
@@ -1744,7 +1830,8 @@
     "description": "After his mother goes missing in a snowstorm, Mike faces the unrelenting winter in the mountains to find her in this emotionally stirring film from acclaimed director Andrew Haigh (All of Us Strangers).",
     "director": "ANDREW HAIGH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Long-Winter-A-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Long-Winter-A-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Long-Winter-A-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661922"
   },
   {
     "name": "I SEE BUILDINGS FALL LIKE LIGHTNING",
@@ -1765,7 +1852,8 @@
     "description": "Inseparable since childhood, five mates confront their thirties with varying degrees of happiness and success in Clio Barnard’s bruising, big-hearted look at friendship in working-class Britain.",
     "director": "CLIO BARNARD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/I-See-Buildings-Fall-Like-Lightning-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I-See-Buildings-Fall-Like-Lightning-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I-See-Buildings-Fall-Like-Lightning-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662015"
   },
   {
     "name": "CONGO BOY",
@@ -1786,7 +1874,8 @@
     "description": "In this stirring coming-of-age drama, a 17-year-old boy seeking refuge in Bangui juggles raising his younger siblings alone while chasing his dream of a music career, one song, odd job, and stage at a time.",
     "director": "RAFIKI FARIALA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Congo-Boy-ML.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Congo-Boy-ML@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Congo-Boy-ML@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661968"
   },
   {
     "name": "GENTLE BY BIRTH",
@@ -1807,7 +1896,8 @@
     "description": "After her brother’s death, director Doree Simon Hatfield digs into the realities of stigma, harm reduction, and addiction in America, confronting the toll it takes on families like her own.",
     "director": "DOREE SIMON HATFIELD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Gentle-by-Birth-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Gentle-by-Birth-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Gentle-by-Birth-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662000"
   },
   {
     "name": "RAISE THE RED LANTERN",
@@ -1826,7 +1916,8 @@
     "description": "The red spectre of Zhang Yimou’s epochal 1991 masterpiece of feudal oppression and domestic tyranny is presented in a brand new, lustrous 4K restoration.",
     "director": "ZHANG YIMOU",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Raise-the-Red-Lantern-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Raise-the-Red-Lantern-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Raise-the-Red-Lantern-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662078"
   },
   {
     "name": "FATHERLAND",
@@ -1847,7 +1938,8 @@
     "description": "Sandra Hüller delivers a powerfully restrained performance as the daughter of writer Thomas Mann in this immaculately crafted drama following the expat author’s tumultuous return to Germany after WWII.",
     "director": "PAWEL PAWLIKOWSKI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Fatherland-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Fatherland-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Fatherland-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661994"
   },
   {
     "name": "ADULT SUPERVISION",
@@ -1868,7 +1960,8 @@
     "description": "It’s a chaotic exploration of masculine fragility gone wild in this dark psycho-comedy about three doting fathers volunteering as chaperones for their daughters’ class camping trip to a secluded Swedish island.",
     "director": "ALEX SCHULMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Adult-Supervision-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Adult-Supervision-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Adult-Supervision-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661926"
   },
   {
     "name": "NAZA",
@@ -1889,7 +1982,8 @@
     "description": "The co-directors of 2024’s No Other Land return with an explosive look into the systems used to target Palestinians during Israel’s military operations in Gaza.",
     "director": "YUVAL ABRAHAM, RACHEL SZOR",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Naza-ML-1024x554.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Naza-ML-1024x554@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Naza-ML-1024x554@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662061"
   },
   {
     "name": "POSSIBLE LOVE",
@@ -1910,7 +2004,8 @@
     "description": "Blue-collar Mi-Ok and Ho-seok fall in with cosmopolitans Ye-ji and Sang-woo, awakening long-suppressed desires and discontentment as the possibility of another life lingers tantalizingly close in Korean auteur Lee Chang-Dong’s (Burning, Secret Sunshine) latest masterpiece.",
     "director": "LEE CHANG-DONG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Possible-Love-ML-1024x589.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Possible-Love-ML-1024x589@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Possible-Love-ML-1024x589@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662074"
   },
   {
     "name": "TIME WARP",
@@ -1931,7 +2026,8 @@
     "description": "Twenty-five-year-old Kenny Starling launches Rock Springs' first drag and queer theater company in order to bring the beloved Rocky Horror Picture Show and its vibrancy and rebellion to rural Wyoming.",
     "director": "ALLISON BERG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Time-Warp-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Time-Warp-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Time-Warp-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662087"
   },
   {
     "name": "TEST",
@@ -1952,7 +2048,8 @@
     "description": "An aspiring bodybuilder’s relentless pursuit of perfection collides with his burgeoning queer desires in this sexy, sensitive drama, written by and starring breakout Brock Yurich.",
     "director": "SAM MCCONNELL",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2024/07/Test-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2024/07/Test-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2024/07/Test-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662103"
   },
   {
     "name": "THE CYCLE",
@@ -1973,7 +2070,8 @@
     "description": "Delicately balancing a variety of genres, The Cycle is a slow-burn crime procedural that transforms from what seems to be a serial killer thriller into something more unexpected.",
     "director": "JORDAN DOWNEY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Cycle-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Cycle-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Cycle-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661973"
   },
   {
     "name": "SALVATION",
@@ -1994,7 +2092,8 @@
     "description": "In a secluded Turkish village, a leader's brother is gripped by seemingly prophetic visions, sparking religious paranoia and chaos that threatens the entire community.",
     "director": "EMIN ALPER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Salvation-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Salvation-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Salvation-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662092"
   },
   {
     "name": "FLIES",
@@ -2015,7 +2114,8 @@
     "description": "In search of some extra cash, solitary Olga rents out a room in her apartment. The arrangement seems simple enough until an awfully persistent little intruder slips in, changing her life forever.",
     "director": "FERNANDO EIMBCKE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Flies-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Flies-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Flies-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661999"
   },
   {
     "name": "TANGLES",
@@ -2036,7 +2136,8 @@
     "description": "Just as Sarah is beginning to build an adult life of her own, her mother’s Alzheimer’s diagnosis forces her to navigate caregiving, duty, and the slow grief of losing someone still beside her.",
     "director": "LEAH NELSON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Tangles-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Tangles-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Tangles-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662100"
   },
   {
     "name": "WHEN A WITNESS RECANTS",
@@ -2057,7 +2158,8 @@
     "description": "Three Black teenagers wrongfully convicted of a 1983 murder spend decades incarcerated before the truth eventually emerges, exposing a fractured justice system built on coerced child witnesses and the unfortunate cost of stolen lives.",
     "director": "DAWN PORTER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/When-A-Witness-Recants-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/When-A-Witness-Recants-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/When-A-Witness-Recants-ML-1024x560@2x.webp",
+    "purchase_links": null
   },
   {
     "name": "WOLFRAM",
@@ -2078,7 +2180,8 @@
     "description": "In a brutal western about extraordinary circumstances and incredible perseverance, Aboriginal children, forced to work for settlers colonizing the inhospitable outback, devise their daring escape.",
     "director": "WARWICK THORNTON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Wolfram-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Wolfram-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Wolfram-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662126"
   },
   {
     "name": "AH GIRL",
@@ -2099,7 +2202,8 @@
     "description": "In this tender coming-of-age dramedy, a 7-year-old girl shuttles between her separated parents' homes in 1994, quietly working out why the adults around her refuse to tell her the truth.",
     "director": "ANG GECK GECK PRISCILLA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ah-Girl-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ah-Girl-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ah-Girl-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661928"
   },
   {
     "name": "MOUSE",
@@ -2120,7 +2224,8 @@
     "description": "A touching coming-of-age drama, Mouse gracefully examines friendship, grief, and teenage identity in this powerful follow up to 2024’s Ghostlight.",
     "director": "KELLY O’SULLIVAN, ALEX THOMPSON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Mouse-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Mouse-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Mouse-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662056"
   },
   {
     "name": "LOOK BACK",
@@ -2141,7 +2246,8 @@
     "description": "Bright-eyed Fujino and bashful Kyomoto form an ineffable bond over their shared love for drawing manga, setting the young artists on unforeseen courses beyond their wildest imaginations.",
     "director": "HIROKAZU KORE-EDA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Look-Back-ML-1024x640.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Look-Back-ML-1024x640@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Look-Back-ML-1024x640@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662043"
   },
   {
     "name": "LA GRADIVA",
@@ -2162,7 +2268,8 @@
     "description": "Achingly beautiful and shot on 16mm, French filmmaker Marine Atlan’s beguiling coming-of-age debut about a French high school trip to the ruins of Pompeii is an epic, yet strikingly intimate, story of self-discovery, disappointment, and yearning.",
     "director": "MARINE ATLAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/La-Gradiva-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/La-Gradiva-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/La-Gradiva-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662033"
   },
   {
     "name": "FIRST THEY CAME FOR MY COLLEGE",
@@ -2183,7 +2290,8 @@
     "description": "As political appointees remake a celebrated Florida college from the top down, students and faculty fight to preserve its distinctive culture, academic freedom, and the place they call home.",
     "director": "PATRICK X. BRESNAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/First-They-Came-for-My-College-ML-1024x576.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/First-They-Came-for-My-College-ML-1024x576@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/First-They-Came-for-My-College-ML-1024x576@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661995"
   },
   {
     "name": "THE LIFE AND DEATHS OF WILSON SHEDD",
@@ -2202,7 +2310,8 @@
     "description": "Amanda Seyfried shines as a teacher who finds an unexpected connection with an inmate through their mutual love of poetry and literature in this powerful prison drama from director Tim Blake Nelson.",
     "director": "TIM BLAKE NELSON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Life-and-Deaths-of-Wilson-Shedd-The-ML-1.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Life-and-Deaths-of-Wilson-Shedd-The-ML-1@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Life-and-Deaths-of-Wilson-Shedd-The-ML-1@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662039"
   },
   {
     "name": "CLARISSA",
@@ -2223,7 +2332,8 @@
     "description": "An affluent woman's extravagant party brings former friends and lovers back into her orbit in this alluring reimagining of Virginia Woolf's Mrs. Dalloway starring Sophie Okonedo.",
     "director": "ARIE ESIRI, CHUKO ESIRI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Clarissa-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Clarissa-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Clarissa-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661965"
   },
   {
     "name": "MINOTAUR",
@@ -2244,7 +2354,8 @@
     "description": "Recently deemed a foreign agent by his own country, Russia’s master of cinema Andrey Zvyagintsev returns with a venomous, impeccably composed thriller that reimagines Claude Chabrol’s The Unfaithful Life at the outset of the Russian invasion of Ukraine.",
     "director": "ANDREY ZVYAGINTSEV",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Minotaur-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Minotaur-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Minotaur-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662054"
   },
   {
     "name": "TEST",
@@ -2265,7 +2376,8 @@
     "description": "An aspiring bodybuilder’s relentless pursuit of perfection collides with his burgeoning queer desires in this sexy, sensitive drama, written by and starring breakout Brock Yurich.",
     "director": "SAM MCCONNELL",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2024/07/Test-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2024/07/Test-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2024/07/Test-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662104"
   },
   {
     "name": "ARRESTED MEMORY",
@@ -2286,7 +2398,8 @@
     "description": "An absurdist throwback to the early films of Takashi Miike, Arrested Memory is a detective caper unlike any you’ve seen before, with a lead who doesn't even remember he’s a detective.",
     "director": "SABU",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Arrested-Memory-ML-1-1024x576.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Arrested-Memory-ML-1-1024x576@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Arrested-Memory-ML-1-1024x576@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661931"
   },
   {
     "name": "I DON'T WANT TO DRINK YOUR BLOOD ANYMORE",
@@ -2307,7 +2420,8 @@
     "description": "A reclusive vampire fighting her thirst for blood finds her carefully isolated life disrupted by unexpected visitors, forcing her to confront the violent nature she has spent decades resisting.",
     "director": "ANDREW SULLIVAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/I-Don_t-Want-to-Drink-Your-Blood-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I-Don_t-Want-to-Drink-Your-Blood-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I-Don_t-Want-to-Drink-Your-Blood-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662013"
   },
   {
     "name": "I SEE BUILDINGS FALL LIKE LIGHTNING",
@@ -2328,7 +2442,8 @@
     "description": "Inseparable since childhood, five mates confront their thirties with varying degrees of happiness and success in Clio Barnard’s bruising, big-hearted look at friendship in working-class Britain.",
     "director": "CLIO BARNARD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/I-See-Buildings-Fall-Like-Lightning-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I-See-Buildings-Fall-Like-Lightning-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I-See-Buildings-Fall-Like-Lightning-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662016"
   },
   {
     "name": "WHO KILLED ALEX ODEH?",
@@ -2349,7 +2464,8 @@
     "description": "Palestinian-American activist Alex Odeh’s murder has remained unsolved for more than four decades, but this gripping investigation pursues the truth in its search for long-denied justice.",
     "director": "JASON OSDER, WILLIAM LAFI YOUMANS",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Who-Killed-Alex-Odeh_-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Who-Killed-Alex-Odeh_-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Who-Killed-Alex-Odeh_-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662122"
   },
   {
     "name": "RIDER",
@@ -2370,7 +2486,8 @@
     "description": "A young bike courier's New Year's Eve delivery leads to an unexpected romance, but class, circumstance, and a sudden turn threaten to keep the young lovers apart in this contemporary musical.",
     "director": "ROAN JOHNSON, DAVIDE PAVANELLO",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Rider-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rider-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rider-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662084"
   },
   {
     "name": "LE FAUX SOIR",
@@ -2391,7 +2508,8 @@
     "description": "Inspired by the unbelievable true story during the German occupation of Belgium, Le Faux Soir is a historical thriller paired with dark humor and the trappings of a heist film.",
     "director": "MICHAËL R. ROSKAM",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Faux-Soir-Le-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Faux-Soir-Le-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Faux-Soir-Le-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662042"
   },
   {
     "name": "FIRST THEY CAME FOR MY COLLEGE",
@@ -2412,7 +2530,8 @@
     "description": "As political appointees remake a celebrated Florida college from the top down, students and faculty fight to preserve its distinctive culture, academic freedom, and the place they call home.",
     "director": "PATRICK X. BRESNAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/First-They-Came-for-My-College-ML-1024x576.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/First-They-Came-for-My-College-ML-1024x576@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/First-They-Came-for-My-College-ML-1024x576@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661996"
   },
   {
     "name": "WOLFRAM",
@@ -2433,7 +2552,8 @@
     "description": "In a brutal western about extraordinary circumstances and incredible perseverance, Aboriginal children, forced to work for settlers colonizing the inhospitable outback, devise their daring escape.",
     "director": "WARWICK THORNTON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Wolfram-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Wolfram-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Wolfram-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662128"
   },
   {
     "name": "JOY WILL PREVAIL",
@@ -2454,7 +2574,8 @@
     "description": "Architect Louis Kahn (Griffin Dunne) reluctantly takes on a country home for a tenacious businessman, sparking an unlikely friendship and a project that challenges both men to reconsider how they want to live.",
     "director": "MAX KORMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Joy-Will-Prevail-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Joy-Will-Prevail-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Joy-Will-Prevail-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662027"
   },
   {
     "name": "THE ASSASSIN(S)",
@@ -2475,26 +2596,29 @@
     "description": "Based on the attempted assassination of South Korean President Park Chung-hee, The Assassin(s) is a gripping historical conspiracy thriller in the vein of JFK with a bit of Spotlight and Chinatown sprinkled in.",
     "director": "HUR JIN-HO",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Assassins-The-ML-1-1024x640.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Assassins-The-ML-1-1024x640@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Assassins-The-ML-1-1024x640@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661935"
   },
   {
     "name": "NO SEQUELS REQUIRED: A SINGLES MIXER",
     "date": "2026-10-21",
-    "start_time": "18:00",
-    "start_time_as_printed": "6:00",
-    "end_time": null,
+    "start_time": "18:30",
+    "start_time_as_printed": "6:30",
+    "end_time": "21:00",
     "run_time_minutes": null,
-    "category": null,
+    "category": "Events",
     "venue": "Events",
-    "start_offset_minutes": 1080,
-    "end_offset_minutes": null,
+    "start_offset_minutes": 1110,
+    "end_offset_minutes": 1260,
     "id": "8b8b0bb0-d90e-5f1f-bb38-c29f89752bb0",
     "Total_Screenings": 1,
     "Other_Screenings": [],
-    "description": null,
+    "description": "Calling all singles ready to mingle! Come meet your match, for all romantic and platonic interests. Featuring DJ Ciara Chaii, be ready to engage and leave with a new friend or maybe more.",
     "director": null,
-    "image_url": null,
-    "image_url_2x": null
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/singles-mixer-2026-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/singles-mixer-2026-1024x560@2x.webp",
+    "purchase_links": null,
+    "location": "Film Festival Lounge (125 Sansom Walk)"
   },
   {
     "name": "VERTIGINOUS",
@@ -2515,7 +2639,8 @@
     "description": "From the gonzo mind of Quentin Dupieux, Vertiginous is a sharp satire that confronts the question of whether reality as we know it is really real.",
     "director": "QUENTIN DUPIEUX",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Vertiginous-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Vertiginous-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Vertiginous-ML-1024x560@2x.webp",
+    "purchase_links": null
   },
   {
     "name": "BRIAN",
@@ -2536,7 +2661,8 @@
     "description": "In this uproarious coming-of-age comedy, a socially hapless teen runs for class president to spend more time with the teacher he’s crushing on, recruiting the school’s magnetic new kid to be his campaign manager in the process.",
     "director": "WILL ROPP",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Brian-ML.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Brian-ML@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Brian-ML@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661953"
   },
   {
     "name": "KIKUYU LAND",
@@ -2557,7 +2683,8 @@
     "description": "One man’s fight to reclaim his family’s stolen land leads to a probing investigation of Kenya’s tea industry, exposing how colonial-era land theft still shapes wealth, labor, and ownership today.",
     "director": "ANDREW H. BROWN, BEA WANGONDU",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Kikuyu-Land-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Kikuyu-Land-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Kikuyu-Land-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662029"
   },
   {
     "name": "POSSIBLE LOVE",
@@ -2578,7 +2705,8 @@
     "description": "Blue-collar Mi-Ok and Ho-seok fall in with cosmopolitans Ye-ji and Sang-woo, awakening long-suppressed desires and discontentment as the possibility of another life lingers tantalizingly close in Korean auteur Lee Chang-Dong’s (Burning, Secret Sunshine) latest masterpiece.",
     "director": "LEE CHANG-DONG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Possible-Love-ML-1024x589.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Possible-Love-ML-1024x589@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Possible-Love-ML-1024x589@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662075"
   },
   {
     "name": "WRITTEN ON THE WIND",
@@ -2597,7 +2725,8 @@
     "description": "The delirious apex of Douglas Sirk’s Technicolor 1950s melodramas, this saga of sexual frustration and family discord exposes the rot at the heart of an unraveling Texan oil clan. Presented by You Must Remember This podcaster Karina Longworth.",
     "director": "DOUGLAS SIRK",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Written-on-the-Wind-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Written-on-the-Wind-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Written-on-the-Wind-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662129"
   },
   {
     "name": "NUISANCE BEAR",
@@ -2618,7 +2747,8 @@
     "description": "Tourism, climate change, and human hubris complicate the ancient migration of a young polar bear, exposing the consequences of trying to control the wild rather than respect it in this beautifully framed documentary.",
     "director": "GABRIELA OSIO VANDEN, JACK WEISMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Nuisance-Bear-ML-1024x572.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Nuisance-Bear-ML-1024x572@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Nuisance-Bear-ML-1024x572@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662065"
   },
   {
     "name": "5 MORE MINUTES",
@@ -2639,7 +2769,8 @@
     "description": "Time is of the essence for a crumbling marriage when an attempt at reconciliation via a country getaway goes spectacularly awry after the feuding couple and their host find themselves trapped in an increasingly destructive time loop.",
     "director": "JAVIER RUIZ CALDERA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/5-More-Minutes-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/5-More-Minutes-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/5-More-Minutes-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661921"
   },
   {
     "name": "WICKER",
@@ -2658,7 +2789,8 @@
     "description": "Audacious and absurd, equal parts fable, fantasy, comedy, and romance, Wicker delivers one of the most quirky and original love stories in recent cinema.",
     "director": "ALEX HUSTON FISCHER, ELEANOR WILSON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Wicker-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Wicker-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Wicker-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662124"
   },
   {
     "name": "THE MELTDOWN",
@@ -2679,7 +2811,8 @@
     "description": "In this taut and atmospheric mystery set at a snowbound Andean resort, a lonely young girl’s fascination with a teenage guest takes on dark contours when the older girl goes missing.",
     "director": "MANUELA MARTELLI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Meltdown-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Meltdown-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Meltdown-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662053"
   },
   {
     "name": "CARL SAGAN: WE ARE MADE OF STAR STUFF",
@@ -2700,7 +2833,8 @@
     "description": "Before there was Neil deGrasse Tyson, there was Carl Sagan, the scientist who first brought the cosmos into American living rooms and invited viewers to wonder about the vast universe beyond Earth.",
     "director": "NANETTE BURSTEIN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Carl-Sagan-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Carl-Sagan-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Carl-Sagan-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661961"
   },
   {
     "name": "IN WAVES",
@@ -2721,7 +2855,8 @@
     "description": "A young romance blooms between a shy skateboarder and an adventurous surfer until sudden illness changes everything in this animated adaptation brought to life by director Phuong Mai Nguyen.",
     "director": "PHUONG MAI NGUYEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/In-Waves-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/In-Waves-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/In-Waves-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662019"
   },
   {
     "name": "A TALENT FOR MURDER",
@@ -2742,7 +2877,8 @@
     "description": "An ambitious agent journeys to the Swiss home of reclusive author Patricia Highsmith (Helen Mirren) to persuade the creator of literature’s Tom Ripley to write one last novel at any cost in director Anton Corbijn’s wickedly fun psychological thriller.",
     "director": "ANTON CORBIJN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Talent-for-Murder-A-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Talent-for-Murder-A-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Talent-for-Murder-A-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661924"
   },
   {
     "name": "THE OLDEST PERSON IN THE WORLD",
@@ -2763,7 +2899,8 @@
     "description": "Director Sam Green’s childhood obsession with the Guinness Book of World Records leads to a decade-long project interviewing each person who holds the inevitably finite title of world’s oldest living person.",
     "director": "SAM GREEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Oldest-Person-In-The-World-The-ML-1024x562.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Oldest-Person-In-The-World-The-ML-1024x562@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Oldest-Person-In-The-World-The-ML-1024x562@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662066"
   },
   {
     "name": "RIDER",
@@ -2784,7 +2921,8 @@
     "description": "A young bike courier's New Year's Eve delivery leads to an unexpected romance, but class, circumstance, and a sudden turn threaten to keep the young lovers apart in this contemporary musical.",
     "director": "ROAN JOHNSON, DAVIDE PAVANELLO",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Rider-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rider-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rider-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662085"
   },
   {
     "name": "LOOK BACK",
@@ -2805,7 +2943,8 @@
     "description": "Bright-eyed Fujino and bashful Kyomoto form an ineffable bond over their shared love for drawing manga, setting the young artists on unforeseen courses beyond their wildest imaginations.",
     "director": "HIROKAZU KORE-EDA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Look-Back-ML-1024x640.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Look-Back-ML-1024x640@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Look-Back-ML-1024x640@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662044"
   },
   {
     "name": "TIME WARP",
@@ -2826,7 +2965,8 @@
     "description": "Twenty-five-year-old Kenny Starling launches Rock Springs' first drag and queer theater company in order to bring the beloved Rocky Horror Picture Show and its vibrancy and rebellion to rural Wyoming.",
     "director": "ALLISON BERG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Time-Warp-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Time-Warp-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Time-Warp-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662088"
   },
   {
     "name": "ELSINORE",
@@ -2845,7 +2985,8 @@
     "description": "Andrew Scott gives a career-best performance in the stirring true story of actor Ian Charleson, who bravely took on the most challenging role of his career while battling AIDS.",
     "director": "SIMON STONE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Elsinore-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Elsinore-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Elsinore-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661986"
   },
   {
     "name": "CONGO BOY",
@@ -2866,7 +3007,8 @@
     "description": "In this stirring coming-of-age drama, a 17-year-old boy seeking refuge in Bangui juggles raising his younger siblings alone while chasing his dream of a music career, one song, odd job, and stage at a time.",
     "director": "RAFIKI FARIALA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Congo-Boy-ML.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Congo-Boy-ML@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Congo-Boy-ML@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661969"
   },
   {
     "name": "DOCUMENTARY SHORTS PROGRAM",
@@ -2887,26 +3029,29 @@
     "description": "Includes: Erucation / Still Standing / Luigi / Going Sane: The Rise and Fall of the Center for Feeling Therapy / Jimmy's Custom Coffin / Escalation",
     "director": null,
     "image_url": null,
-    "image_url_2x": null
+    "image_url_2x": null,
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662140"
   },
   {
     "name": "PFF FILM TRIVIA NIGHT!",
     "date": "2026-10-22",
     "start_time": "18:30",
     "start_time_as_printed": "6:30",
-    "end_time": null,
+    "end_time": "20:00",
     "run_time_minutes": null,
-    "category": null,
+    "category": "Events",
     "venue": "Events",
     "start_offset_minutes": 1110,
-    "end_offset_minutes": null,
+    "end_offset_minutes": 1200,
     "id": "6b81f69e-9136-591c-8d56-9b4b40cb2c23",
     "Total_Screenings": 1,
     "Other_Screenings": [],
-    "description": null,
+    "description": "Join fellow film buffs across the city for a fun evening of testing your best film knowledge. Hosted by Johnny Goodtimes, come solo or with a team, grab a drink and meet new film buddies! Prizes courtesy of LITTLE MOVIE STORE. Please keep teams no more than 6.",
     "director": null,
-    "image_url": null,
-    "image_url_2x": null
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/PFS-TRIVIA-NIGHT-1-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/PFS-TRIVIA-NIGHT-1-1024x560@2x.webp",
+    "purchase_links": null,
+    "location": "Film Festival Lounge (125 Sansom Walk)"
   },
   {
     "name": "BITTER CHRISTMAS",
@@ -2927,7 +3072,8 @@
     "description": "Playfully moving between stories within stories, Pedro Almodovar’s latest is a layered exploration of success and failure, friendship and loss, and the sometimes razor-thin line between reality and fiction.",
     "director": "PEDRO ALMODÓVAR",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Bitter-Christmas-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bitter-Christmas-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bitter-Christmas-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661945"
   },
   {
     "name": "THE DIARY OF A CHAMBERMAID",
@@ -2948,7 +3094,8 @@
     "description": "The latest from provocateur Radu Jude playfully transplants Mirbeau’s classic satire to contemporary France, where a Romanian maid strives for a better life amid precarious circumstances.",
     "director": "RADU JUDE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Diary-of-a-Chambermaid-KL-1024x561.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Diary-of-a-Chambermaid-KL-1024x561@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Diary-of-a-Chambermaid-KL-1024x561@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661977"
   },
   {
     "name": "KWAIDAN",
@@ -2967,7 +3114,8 @@
     "description": "Four macabre tales from Japanese folklore comprise Masaki Kobayashi’s legendary 1964 anthology, resurrected in all its otherworldly beauty in a brand-new 4K restoration.",
     "director": "MASAKI KOBAYASHI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Kwaidan-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Kwaidan-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Kwaidan-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662031"
   },
   {
     "name": "DOWNBEAT",
@@ -2988,7 +3136,8 @@
     "description": "After failing out of the industry and losing his groove, a scrappy drummer is left with a bucket, the corner he busks on, and the family he’s been trying to forget.",
     "director": "DANNY MADDEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Downbeat-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Downbeat-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Downbeat-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661978"
   },
   {
     "name": "HALF",
@@ -3009,7 +3158,8 @@
     "description": "One of the most wild late-night films in years pits two half-vampire siblings against a nefarious and gruesome roadside scavenger cabal in a bloody martial arts western destined for instant cult classic status.",
     "director": "SAMJAD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Half-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Half-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Half-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662008"
   },
   {
     "name": "BEDFORD PARK",
@@ -3030,7 +3180,8 @@
     "description": "Following a car accident, two Korean Americans, each burdened by a troubled past, are brought together and form an unlikely romance in this tender debut feature.",
     "director": "STEPHANIE AHN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Bedford-Park-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bedford-Park-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bedford-Park-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661938"
   },
   {
     "name": "BOATBUILDERS",
@@ -3051,7 +3202,8 @@
     "description": "Witness the indelible beauty of skilled craftsmanship on a picturesque outcrop of New England and visit the lives and struggles of the laborers and artisans who build the finest ships on the sea in this engrossing documentary.",
     "director": "LUKE LORENTZEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Boatbuilders-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Boatbuilders-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Boatbuilders-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661950"
   },
   {
     "name": "LABRADOR— AUTOPSY OF SILENCE",
@@ -3072,7 +3224,8 @@
     "description": "An icy murder mystery set aboard a vast freighter at sea serves as the framework for this moody tale of colonization and sexuality.",
     "director": "RODRIGUE JEAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Labrador-Autopsy-of-Silence-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Labrador-Autopsy-of-Silence-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Labrador-Autopsy-of-Silence-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662036"
   },
   {
     "name": "SENTIENT",
@@ -3093,7 +3246,8 @@
     "description": "Primate testing has driven medical breakthroughs, but as science evolves and technology advances, many ask whether experimentation on our closest animal relatives still has a place in medicine.",
     "director": "TONY JONES",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Sentient-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Sentient-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Sentient-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662096"
   },
   {
     "name": "AH GIRL",
@@ -3114,7 +3268,8 @@
     "description": "In this tender coming-of-age dramedy, a 7-year-old girl shuttles between her separated parents' homes in 1994, quietly working out why the adults around her refuse to tell her the truth.",
     "director": "ANG GECK GECK PRISCILLA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ah-Girl-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ah-Girl-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ah-Girl-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661929"
   },
   {
     "name": "14TH",
@@ -3135,7 +3290,8 @@
     "description": "Examining the historical background and modern application of the 14th Amendment, Ava DuVernay’s 14th  sheds light on the battle around the amendment at a time when it is more relevant and under attack than ever.",
     "director": "AVA DUVERNAY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/14th-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/14th-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/14th-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661918"
   },
   {
     "name": "YELLOW LETTERS",
@@ -3156,7 +3312,8 @@
     "description": "This Berlinale prizewinner is an absorbing look at an artist couple who must either sacrifice their morals in the face of fascism or choose to put their family, careers, and marriage in danger.",
     "director": "ILKER ÇATAK",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Yellow-Letters-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Yellow-Letters-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Yellow-Letters-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662134"
   },
   {
     "name": "GOODBYE CRUEL WORLD",
@@ -3177,7 +3334,8 @@
     "description": "Anatomy of a Fall’s Milo Machado-Graner leads this beautifully 16mm-shot coming-of-age romance about a fed-up, bullied teen staging a disappearing act and the only lonely girl who knows his secret.",
     "director": "FÉLIX DE GIVRY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Goodbye-Cruel-World-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Goodbye-Cruel-World-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Goodbye-Cruel-World-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662002"
   },
   {
     "name": "GROUND FLOOR",
@@ -3198,7 +3356,8 @@
     "description": "Just before departing for a holiday with his wife, Kristóf discovers black mold in their apartment. What starts as a simple inquiry into how the mold got there turns into a building-wide conspiracy in this surreal political satire.",
     "director": "GÁBOR REISZ",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ground-Floor-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ground-Floor-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ground-Floor-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662006"
   },
   {
     "name": "MAKING MARIE ANTOINETTE",
@@ -3219,7 +3378,8 @@
     "description": "Marie Antoinette turns 20 with a never-before-seen portrait of Sofia Coppola at work, captured through her mother Eleanor’s tentative gaze as the young director radically reinvents Versailles.",
     "director": "ELEANOR COPPOLA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Making-Marien-Antoinette-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Making-Marien-Antoinette-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Making-Marien-Antoinette-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662049"
   },
   {
     "name": "LA GRADIVA",
@@ -3240,7 +3400,8 @@
     "description": "Achingly beautiful and shot on 16mm, French filmmaker Marine Atlan’s beguiling coming-of-age debut about a French high school trip to the ruins of Pompeii is an epic, yet strikingly intimate, story of self-discovery, disappointment, and yearning.",
     "director": "MARINE ATLAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/La-Gradiva-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/La-Gradiva-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/La-Gradiva-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662034"
   },
   {
     "name": "COWARD",
@@ -3261,7 +3422,8 @@
     "description": "Belgian auteur Lukas Dhont returns with a graceful, heartbreaking tale of young soldiers whose fragile connection is tested by the devastating machinery of war on the frontlines of WWI.",
     "director": "LUKAS DHONT",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Coward-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Coward-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Coward-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661971"
   },
   {
     "name": "RAY GUNN",
@@ -3280,7 +3442,8 @@
     "description": "From Academy Award–winning writer-director Brad Bird (The Incredibles, The Iron Giant), Ray Gunn is a highly stylized science fiction noir that blends a classic hard-boiled detective drama with dazzling spectacle and sharp humor.",
     "director": "BRAD BIRD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ray-Gunn-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ray-Gunn-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ray-Gunn-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662079"
   },
   {
     "name": "THE LAST CRITIC",
@@ -3301,7 +3464,8 @@
     "description": "Still writing and reviewing after six decades, self-anointed “Dean of American Rock Critics” Robert Christgau reflects on his career in this warm, witty celebration of music criticism.",
     "director": "MATTY WISHNOW",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Last-Critic-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Last-Critic-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Last-Critic-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662038"
   },
   {
     "name": "THE DREAMED ADVENTURE",
@@ -3323,7 +3487,8 @@
     "description": "An archaeologist is pulled back into the criminal underworld of her past in southeast Bulgaria when her friend—and former lover—goes missing without a trace in Valeska Grisebach’s award-winning gangster epic.",
     "director": "VALESKA GRISEBACH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Dreamed-Adventure-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Dreamed-Adventure-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Dreamed-Adventure-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661981"
   },
   {
     "name": "THE OLDEST PERSON IN THE WORLD",
@@ -3344,7 +3509,8 @@
     "description": "Director Sam Green’s childhood obsession with the Guinness Book of World Records leads to a decade-long project interviewing each person who holds the inevitably finite title of world’s oldest living person.",
     "director": "SAM GREEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Oldest-Person-In-The-World-The-ML-1024x562.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Oldest-Person-In-The-World-The-ML-1024x562@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Oldest-Person-In-The-World-The-ML-1024x562@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662067"
   },
   {
     "name": "BITTER CHRISTMAS",
@@ -3365,7 +3531,8 @@
     "description": "Playfully moving between stories within stories, Pedro Almodovar’s latest is a layered exploration of success and failure, friendship and loss, and the sometimes razor-thin line between reality and fiction.",
     "director": "PEDRO ALMODÓVAR",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Bitter-Christmas-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bitter-Christmas-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bitter-Christmas-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661947"
   },
   {
     "name": "WILD HORSE NINE",
@@ -3384,7 +3551,8 @@
     "description": "After a life of subterfuge and espionage, a retiring CIA agent (John Malkovich) is looking to be a bit more honest during a final dispatch to Easter Island in 1973, much to the dismay of his partner (Sam Rockwell) and bureau chief (Steve Buscemi) in Martin McDonagh’s sardonic dark comedy.",
     "director": "MARTIN MCDONAGH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Wild-Horse-Nine-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Wild-Horse-Nine-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Wild-Horse-Nine-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662125"
   },
   {
     "name": "DOWNBEAT",
@@ -3405,7 +3573,8 @@
     "description": "After failing out of the industry and losing his groove, a scrappy drummer is left with a bucket, the corner he busks on, and the family he’s been trying to forget.",
     "director": "DANNY MADDEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Downbeat-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Downbeat-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Downbeat-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661979"
   },
   {
     "name": "SICK",
@@ -3426,7 +3595,8 @@
     "description": "An intense and frequently inappropriate sibling dynamic is salaciously explored in this unhinged coming-of-age story about a brother and sister who are sent off to the countryside to take care of their ailing grandmother but seem to have more interest in each other.",
     "director": "AGATA TRZEBUCHOWSKA",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Sick-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Sick-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Sick-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662098"
   },
   {
     "name": "CHILI FINGER",
@@ -3447,7 +3617,8 @@
     "description": "When a cash-strapped lawyer finds a finger in her fast-food chili, she sees an answer to her problems, but a demand for payment sparks a darkly comic game of wits and escalating bad decisions.",
     "director": "EDD BENDA, STEPHEN HELSTAD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Chili-Finger-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Chili-Finger-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Chili-Finger-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661963"
   },
   {
     "name": "ARRESTED MEMORY",
@@ -3468,7 +3639,8 @@
     "description": "An absurdist throwback to the early films of Takashi Miike, Arrested Memory is a detective caper unlike any you’ve seen before, with a lead who doesn't even remember he’s a detective.",
     "director": "SABU",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Arrested-Memory-ML-1-1024x576.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Arrested-Memory-ML-1-1024x576@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Arrested-Memory-ML-1-1024x576@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661933"
   },
   {
     "name": "THE ROCKY HORROR PICTURE SHOW",
@@ -3487,7 +3659,8 @@
     "description": "After more than 50 years and countless midnight screenings, get ready to laugh, sing, and shout through one of the most enduring and iconic cult films of all time, in honor of the late, great Tim Curry.",
     "director": "JIM SHARMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Rocky-Horror-Picture-Show-The-ML-copy-1024x583.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rocky-Horror-Picture-Show-The-ML-copy-1024x583@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rocky-Horror-Picture-Show-The-ML-copy-1024x583@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662086"
   },
   {
     "name": "TOO MANY BEASTS",
@@ -3508,26 +3681,29 @@
     "description": "Brimming with hogs and hilarity, this pitch-black comedy finds an unstable cop getting entangled in a local mystery after a feud between farmers and a boar-hunting group comes to a head.",
     "director": "SARAH ARNOLD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Too-Many-Beasts-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Too-Many-Beasts-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Too-Many-Beasts-ML-1024x560@2x.webp",
+    "purchase_links": null
   },
   {
     "name": "PFS LOVES PHILLY ARTS MARKET!",
     "date": "2026-10-24",
     "start_time": "11:00",
     "start_time_as_printed": "11:00",
-    "end_time": null,
+    "end_time": "14:00",
     "run_time_minutes": null,
-    "category": null,
+    "category": "Events",
     "venue": "Events",
     "start_offset_minutes": 660,
-    "end_offset_minutes": null,
+    "end_offset_minutes": 840,
     "id": "bc9f8ee4-c90b-56f2-96fd-d8b620a9fda0",
     "Total_Screenings": 1,
     "Other_Screenings": [],
-    "description": null,
+    "description": "Shop, browse, and connect with local Philly artisans featuring handmade goods crafted with love. Come early, grab a drink from MADIS, and support our local creative community.",
     "director": null,
-    "image_url": null,
-    "image_url_2x": null
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Arts_Market_Logo1-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Arts_Market_Logo1-1024x560@2x.webp",
+    "purchase_links": null,
+    "location": "Film Festival Lounge (125 Sansom Walk)"
   },
   {
     "name": "BUNKER",
@@ -3548,7 +3724,8 @@
     "description": "Javier Bardem and Penélope Cruz deliver powerful performances in this gripping domestic drama about an architect whose latest project opens fault lines in his seemingly perfect marriage.",
     "director": "FLORIAN ZELLER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Bunker-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bunker-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Bunker-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661956"
   },
   {
     "name": "BOATBUILDERS",
@@ -3569,7 +3746,8 @@
     "description": "Witness the indelible beauty of skilled craftsmanship on a picturesque outcrop of New England and visit the lives and struggles of the laborers and artisans who build the finest ships on the sea in this engrossing documentary.",
     "director": "LUKE LORENTZEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Boatbuilders-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Boatbuilders-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Boatbuilders-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661951"
   },
   {
     "name": "CLOSE ENCOUNTERS OF THE THIRD KIND",
@@ -3588,7 +3766,8 @@
     "description": "In an infinite expanse of stars, one surely ponders: are we alone? Join PFF35 as you look back up at the sky through Steven Spielberg’s eyes on glorious 70mm film. This means something. This is important.",
     "director": "STEVEN SPIELBERG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Close-Encounters-of-the-Third-Kind-ML-1024x576.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Close-Encounters-of-the-Third-Kind-ML-1024x576@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Close-Encounters-of-the-Third-Kind-ML-1024x576@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661966"
   },
   {
     "name": "ONCE UPON A TIME IN HARLEM",
@@ -3609,7 +3788,8 @@
     "description": "In this monumental posthumous documentary from William Greaves, legendary voices of the Harlem Renaissance gather at Duke Ellington’s townhouse in 1972 to reminisce, debate, and pass on the wisdom of a generation that reshaped American culture.",
     "director": "DAVID GREAVES, WILLIAM GREAVES",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Once-Upon-a-Time-in-Harlem-ML-1024x577.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Once-Upon-a-Time-in-Harlem-ML-1024x577@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Once-Upon-a-Time-in-Harlem-ML-1024x577@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662070"
   },
   {
     "name": "IRON BOY",
@@ -3630,7 +3810,8 @@
     "description": "In this animated watercolor gem, an 11-year-old boy in rural France begins collapsing without warning until an iron corset tears him away from the only world he has ever known.",
     "director": "LOUIS CLICHY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Iron-Boy-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Iron-Boy-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Iron-Boy-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662023"
   },
   {
     "name": "MY UNDESIRABLE FRIENDS: PART II — EXILE",
@@ -3649,7 +3830,8 @@
     "description": "In this monumental second part of her documentary, filmmaker Julia Loktev continues her work by following the endangered journalists who are targets of Putin’s regime.",
     "director": "JULIA LOKTEV",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/My-Undesirable-Friends-Exile-Part-2-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/My-Undesirable-Friends-Exile-Part-2-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/My-Undesirable-Friends-Exile-Part-2-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662059"
   },
   {
     "name": "BEYOND THE VERDICT",
@@ -3668,7 +3850,8 @@
     "description": null,
     "director": null,
     "image_url": null,
-    "image_url_2x": null
+    "image_url_2x": null,
+    "purchase_links": null
   },
   {
     "name": "OUR LAND, OUR STORY, OUR FUTURE",
@@ -3687,7 +3870,8 @@
     "description": null,
     "director": null,
     "image_url": null,
-    "image_url_2x": null
+    "image_url_2x": null,
+    "purchase_links": null
   },
   {
     "name": "EXTRA GEOGRAPHY",
@@ -3708,7 +3892,8 @@
     "description": "At a girls’ boarding school in England, inseparable best mates Flic and Minna make it their mission to fall in love with the same person at the same time. What could possibly go wrong?",
     "director": "MOLLY MANNERS",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Extra-Geography-1024x559.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Extra-Geography-1024x559@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Extra-Geography-1024x559@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661992"
   },
   {
     "name": "THE BURNING GIANTS",
@@ -3730,7 +3915,8 @@
     "description": "As a mysterious poisonous fog drifts across the mountains and threatens inhabitants, Thai authorities attempt to remove the last remaining member of the Indigenous Karen people in this hypnotic and surreal dystopian drama.",
     "director": "PHUTTIPHONG AROONPHENG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Burning-Giants-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Burning-Giants-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Burning-Giants-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661958"
   },
   {
     "name": "JOY WILL PREVAIL",
@@ -3751,7 +3937,8 @@
     "description": "Architect Louis Kahn (Griffin Dunne) reluctantly takes on a country home for a tenacious businessman, sparking an unlikely friendship and a project that challenges both men to reconsider how they want to live.",
     "director": "MAX KORMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Joy-Will-Prevail-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Joy-Will-Prevail-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Joy-Will-Prevail-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662028"
   },
   {
     "name": "DOCUMENTARY SHORTS PROGRAM",
@@ -3772,7 +3959,8 @@
     "description": "Includes: Erucation / Still Standing / Luigi / Going Sane: The Rise and Fall of the Center for Feeling Therapy / Jimmy's Custom Coffin / Escalation",
     "director": null,
     "image_url": null,
-    "image_url_2x": null
+    "image_url_2x": null,
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662141"
   },
   {
     "name": "BEING HEUMANN",
@@ -3791,7 +3979,8 @@
     "description": "Disability rights activist Judy Heumann and her band of co-conspirators break out of the margins to boldly stage a 26-day-long occupation of a federal building in director Siân Heder’s moving follow up to Coda.",
     "director": "SIÂN HEDER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Being-Heumann-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Being-Heumann-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Being-Heumann-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661940"
   },
   {
     "name": "MADE IN FILMADELPHIA",
@@ -3810,7 +3999,8 @@
     "description": null,
     "director": null,
     "image_url": null,
-    "image_url_2x": null
+    "image_url_2x": null,
+    "purchase_links": null
   },
   {
     "name": "FILMADELPHIA SHORTS PROGRAM",
@@ -3831,7 +4021,8 @@
     "description": "Includes: Philly Pretzels / The Second Life of Freddie Nole / Deuce Purgatory / Six Sixty Six / Casualty / Fletcher Street / The Wonka of Worcester",
     "director": null,
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Six-Sixty-Six-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Six-Sixty-Six-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Six-Sixty-Six-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662144"
   },
   {
     "name": "EVERYTIME",
@@ -3852,7 +4043,8 @@
     "description": "This haunting and thrillingly ambitious drama finds a grieving single mom, her precocious daughter, and a mixed-up teenage boy forming an unlikely trio as they attempt to make sense of tragedy.",
     "director": "SANDRA WOLLNER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Everytime-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Everytime-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Everytime-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661988"
   },
   {
     "name": "REHEARSALS FOR A REVOLUTION",
@@ -3873,7 +4065,8 @@
     "description": "An Iranian filmmaker and activist looks back on the people who shaped her, transforming their private stories into a broader study of Iran’s long struggle for change and enduring hope.",
     "director": "PEGAH AHANGARANI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Rehearsals-for-a-Revolution-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rehearsals-for-a-Revolution-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Rehearsals-for-a-Revolution-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662083"
   },
   {
     "name": "TENDER LOVING CARE",
@@ -3894,7 +4087,8 @@
     "description": "Mike Leigh’s swan song is a compassionate, clear-eyed look at friendship and family, featuring remarkable performances from a cast including Widow’s Bay breakout Kate O’Flynn.",
     "director": "MIKE LEIGH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Tender-Loving-Care-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Tender-Loving-Care-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Tender-Loving-Care-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662102"
   },
   {
     "name": "YALE",
@@ -3915,7 +4109,8 @@
     "description": "With her son's life on the line, a desperate mother forces her way back into the life of her deadbeat father, joining him on an unlikely road trip to find a kidney donor for her son.",
     "director": "JAY SILVERMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Yale-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Yale-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Yale-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662132"
   },
   {
     "name": "JEAN-MICHEL BASQUIAT",
@@ -3936,7 +4131,8 @@
     "description": "Nearly 40 years after his untimely passing, Jean-Michel Basquiat’s family looks back at the life and blazing talent of one of the 20th century’s most celebrated and influential artists.",
     "director": "QUINN WHITNEY WILSON, VIRIDIANA LIEBERMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Jean-Michel-Basquiat-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Jean-Michel-Basquiat-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Jean-Michel-Basquiat-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662025"
   },
   {
     "name": "ADULT SUPERVISION",
@@ -3957,7 +4153,8 @@
     "description": "It’s a chaotic exploration of masculine fragility gone wild in this dark psycho-comedy about three doting fathers volunteering as chaperones for their daughters’ class camping trip to a secluded Swedish island.",
     "director": "ALEX SCHULMAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Adult-Supervision-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Adult-Supervision-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Adult-Supervision-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661927"
   },
   {
     "name": "MINOTAUR",
@@ -3978,7 +4175,8 @@
     "description": "Recently deemed a foreign agent by his own country, Russia’s master of cinema Andrey Zvyagintsev returns with a venomous, impeccably composed thriller that reimagines Claude Chabrol’s The Unfaithful Life at the outset of the Russian invasion of Ukraine.",
     "director": "ANDREY ZVYAGINTSEV",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Minotaur-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Minotaur-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Minotaur-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662055"
   },
   {
     "name": "WHO KILLED ALEX ODEH?",
@@ -3999,7 +4197,8 @@
     "description": "Palestinian-American activist Alex Odeh’s murder has remained unsolved for more than four decades, but this gripping investigation pursues the truth in its search for long-denied justice.",
     "director": "JASON OSDER, WILLIAM LAFI YOUMANS",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Who-Killed-Alex-Odeh_-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Who-Killed-Alex-Odeh_-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Who-Killed-Alex-Odeh_-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662123"
   },
   {
     "name": "INK",
@@ -4018,26 +4217,29 @@
     "description": "What happens when Rupert Murdoch offers control of a flailing newspaper to a discontented editor hell-bent on upending the industry? The tabloid is born, and the news will never be the same.",
     "director": "DANNY BOYLE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Ink-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ink-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Ink-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662021"
   },
   {
     "name": "YOUNG FRIENDS DANCE PARTY",
     "date": "2026-10-24",
     "start_time": "21:00",
     "start_time_as_printed": "9:00",
-    "end_time": null,
+    "end_time": "00:00",
     "run_time_minutes": null,
-    "category": null,
+    "category": "Events",
     "venue": "Events",
     "start_offset_minutes": 1260,
-    "end_offset_minutes": null,
+    "end_offset_minutes": 1440,
     "id": "2a081061-c573-5d00-b5db-b8994250d07c",
     "Total_Screenings": 1,
     "Other_Screenings": [],
-    "description": null,
+    "description": "Join us for our annual Young Friends Dance Party, featuring DJ Daniel Giangrandi! Enjoy a night of nostalgic throwbacks from the 90s and early aughts, mingle and dance with other film lovers, and indulge in light bites provided by Las Bugambilias and specialty cocktails from Philadelphia Distilling. Free with proof of Festival badge or ticket; 21+ with valid ID.",
     "director": null,
-    "image_url": null,
-    "image_url_2x": null
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2025/10/YF-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2025/10/YF-1024x560@2x.webp",
+    "purchase_links": null,
+    "location": "Festival Lounge (125 Sansom Walk)"
   },
   {
     "name": "WE ARE THE SHAGGS",
@@ -4058,7 +4260,8 @@
     "description": "After decades of baffling and fascinating listeners with loopy ditties like “My Pal Foot Foot,” sister trio The Shaggs finally gets a chance to tell their story in this affectionate and hilarious deep dive into one of the most misunderstood bands of all time.",
     "director": "KEN KWAPIS",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-The-Shaggs-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-The-Shaggs-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-The-Shaggs-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662119"
   },
   {
     "name": "WE ARE ALIENS",
@@ -4079,7 +4282,8 @@
     "description": "Kohei Kadowaki’s feature directorial debut traces a beautiful friendship that blossoms between two schoolboys, and the moment of betrayal that shatters it, sending the consequences rippling across the rest of their lives.",
     "director": "KOHEI KADOWAKI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-Aliens-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-Aliens-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/We-Are-Aliens-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662113"
   },
   {
     "name": "I DON'T WANT TO DRINK YOUR BLOOD ANYMORE",
@@ -4100,7 +4304,8 @@
     "description": "A reclusive vampire fighting her thirst for blood finds her carefully isolated life disrupted by unexpected visitors, forcing her to confront the violent nature she has spent decades resisting.",
     "director": "ANDREW SULLIVAN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/I-Don_t-Want-to-Drink-Your-Blood-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I-Don_t-Want-to-Drink-Your-Blood-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I-Don_t-Want-to-Drink-Your-Blood-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662014"
   },
   {
     "name": "VICTORIAN PSYCHO",
@@ -4119,7 +4324,8 @@
     "description": "Thrilling, hilarious, and drenched in blood, this killer Victorian slasher comedy stars indie scream queen Maika Monroe as the mysterious visiting governess at an English manor will keep you guessing, gasping, and laughing.",
     "director": "ZACHARY WIGON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Victorian-Psycho-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Victorian-Psycho-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Victorian-Psycho-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662109"
   },
   {
     "name": "A TALENT FOR MURDER",
@@ -4140,7 +4346,8 @@
     "description": "An ambitious agent journeys to the Swiss home of reclusive author Patricia Highsmith (Helen Mirren) to persuade the creator of literature’s Tom Ripley to write one last novel at any cost in director Anton Corbijn’s wickedly fun psychological thriller.",
     "director": "ANTON CORBIJN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Talent-for-Murder-A-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Talent-for-Murder-A-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Talent-for-Murder-A-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661925"
   },
   {
     "name": "IN WAVES",
@@ -4161,7 +4368,8 @@
     "description": "A young romance blooms between a shy skateboarder and an adventurous surfer until sudden illness changes everything in this animated adaptation brought to life by director Phuong Mai Nguyen.",
     "director": "PHUONG MAI NGUYEN",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/In-Waves-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/In-Waves-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/In-Waves-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662020"
   },
   {
     "name": "NARRATIVE SHORTS PROGRAM",
@@ -4182,7 +4390,8 @@
     "description": "Includes: We Were Here / A Crime Across Four Landscapes / Spiritus Sanctus / Gamberra / Nobody Said Anything / Crisis Actor / The Dream is a Snail",
     "director": null,
     "image_url": null,
-    "image_url_2x": null
+    "image_url_2x": null,
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662147"
   },
   {
     "name": "THE BURNING GIANTS",
@@ -4204,7 +4413,8 @@
     "description": "As a mysterious poisonous fog drifts across the mountains and threatens inhabitants, Thai authorities attempt to remove the last remaining member of the Indigenous Karen people in this hypnotic and surreal dystopian drama.",
     "director": "PHUTTIPHONG AROONPHENG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Burning-Giants-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Burning-Giants-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Burning-Giants-The-ML-1024x560@2x.webp",
+    "purchase_links": null
   },
   {
     "name": "I'LL BE GONE IN JUNE",
@@ -4225,7 +4435,8 @@
     "description": "A German study abroad student lands in a small New Mexico town just as America is transformed by 9/11 in this wryly observant and gorgeously shot coming-of-age film.",
     "director": "KATHARINA RIVILIS",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/I_ll-Be-Gone-in-June-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I_ll-Be-Gone-in-June-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/I_ll-Be-Gone-in-June-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662018"
   },
   {
     "name": "THE MATCH",
@@ -4246,7 +4457,8 @@
     "description": "Forty years after the world witnessed the “Hand of God,” The Match returns to the legendary 1986 World Cup quarter-final between England and Argentina with a riveting reconstruction of the mythical showdown from every angle.",
     "director": "JUAN CABRAL, SANTIAGO FRANCO",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Match-The-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Match-The-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Match-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662051"
   },
   {
     "name": "BIG PHAN",
@@ -4267,7 +4479,8 @@
     "description": "He’s a big, furry creature from Broad Street. The Phillie Phanatic finally gets his close-up in a biopic capturing the magic and mayhem of a baseball legend.",
     "director": "HOAG KEPNER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Big-Phan-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Big-Phan-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Big-Phan-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661944"
   },
   {
     "name": "2001: A SPACE ODYSSEY",
@@ -4286,7 +4499,8 @@
     "description": "Often regarded as one of the best films ever made, Kubrick’s mind-bending masterpiece explores the magnitudes of space, time, and existence, presented here in stunning 70mm.",
     "director": "STANLEY KUBRICK",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2023/10/2001_-A-Space-Odyssey_web.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2023/10/2001_-A-Space-Odyssey_web@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2023/10/2001_-A-Space-Odyssey_web@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661919"
   },
   {
     "name": "GOODBYE CRUEL WORLD",
@@ -4307,7 +4521,8 @@
     "description": "Anatomy of a Fall’s Milo Machado-Graner leads this beautifully 16mm-shot coming-of-age romance about a fed-up, bullied teen staging a disappearing act and the only lonely girl who knows his secret.",
     "director": "FÉLIX DE GIVRY",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Goodbye-Cruel-World-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Goodbye-Cruel-World-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Goodbye-Cruel-World-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662003"
   },
   {
     "name": "A LONG WINTER",
@@ -4328,7 +4543,8 @@
     "description": "After his mother goes missing in a snowstorm, Mike faces the unrelenting winter in the mountains to find her in this emotionally stirring film from acclaimed director Andrew Haigh (All of Us Strangers).",
     "director": "ANDREW HAIGH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Long-Winter-A-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Long-Winter-A-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Long-Winter-A-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661923"
   },
   {
     "name": "ANIMATED SHORTS PROGRAM",
@@ -4349,7 +4565,8 @@
     "description": "Includes : Cartoon Physics / Marble & Lemons / Terminal / Ivar / Busy Bodies / Because Today is Saturday / The End / Living with a Visionary",
     "director": null,
     "image_url": "https://filmadelphia.org/wp-content/uploads/2024/09/Animated-Shorts-Program_web-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2024/09/Animated-Shorts-Program_web-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2024/09/Animated-Shorts-Program_web-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662139"
   },
   {
     "name": "HANGING BY A WIRE",
@@ -4370,7 +4587,8 @@
     "description": "A routine commute turns into a nightmare when eight passengers are stranded in a cable car hanging by a single line above a mountainous Pakistani valley, triggering a remarkable rescue attempt.",
     "director": "MOHAMMED ALI NAQVI",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Hanging-by-a-Wire-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Hanging-by-a-Wire-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Hanging-by-a-Wire-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662010"
   },
   {
     "name": "SEIZED",
@@ -4392,7 +4610,8 @@
     "description": "Equally hilarious and unsettling, this astonishing documentary traces the unfounded police raid that transformed an unassuming Midwestern newsroom into the unlikely center of a national debate over the First Amendment.",
     "director": "SHARON LIESE",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Seized-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Seized-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Seized-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662094"
   },
   {
     "name": "GENTLE BY BIRTH",
@@ -4413,7 +4632,8 @@
     "description": "After her brother’s death, director Doree Simon Hatfield digs into the realities of stigma, harm reduction, and addiction in America, confronting the toll it takes on families like her own.",
     "director": "DOREE SIMON HATFIELD",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Gentle-by-Birth-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Gentle-by-Birth-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Gentle-by-Birth-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662001"
   },
   {
     "name": "ELEPHANTS IN THE FOG",
@@ -4434,7 +4654,8 @@
     "description": "In a rural Nepalese village, surrounded by lush forests and wild elephants, the matriarch of a transgender community has her life upended when her adopted daughter disappears. In her quest to find her, she risks the tenuous safety of her people as well as her own life in this mystery thriller.",
     "director": "ABINASH BIKRAM SHAH",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Elephants-in-the-Fog-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Elephants-in-the-Fog-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Elephants-in-the-Fog-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661984"
   },
   {
     "name": "MOUSE",
@@ -4455,7 +4676,8 @@
     "description": "A touching coming-of-age drama, Mouse gracefully examines friendship, grief, and teenage identity in this powerful follow up to 2024’s Ghostlight.",
     "director": "KELLY O’SULLIVAN, ALEX THOMPSON",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Mouse-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Mouse-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Mouse-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662057"
   },
   {
     "name": "Fresh Air",
@@ -4474,7 +4696,8 @@
     "description": null,
     "director": null,
     "image_url": null,
-    "image_url_2x": null
+    "image_url_2x": null,
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662149"
   },
   {
     "name": "KIKUYU LAND",
@@ -4495,7 +4718,8 @@
     "description": "One man’s fight to reclaim his family’s stolen land leads to a probing investigation of Kenya’s tea industry, exposing how colonial-era land theft still shapes wealth, labor, and ownership today.",
     "director": "ANDREW H. BROWN, BEA WANGONDU",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Kikuyu-Land-ML-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Kikuyu-Land-ML-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Kikuyu-Land-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662030"
   },
   {
     "name": "THE DEBUT",
@@ -4516,7 +4740,8 @@
     "description": "Julianne Moore gives a career-defining performance as a New Jersey housewife determined to do whatever it takes to make it big in her local community theater.",
     "director": "JESSE EISENBERG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661975"
   },
   {
     "name": "QUEEN AT SEA",
@@ -4537,7 +4762,8 @@
     "description": "When a woman with advanced dementia becomes the center of a bitter family dispute over care and consent, those who love her most are forced to confront who has the right to decide what is best.",
     "director": "LANCE HAMMER",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Queen-At-Sea-ML-1024x582.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Queen-At-Sea-ML-1024x582@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Queen-At-Sea-ML-1024x582@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662077"
   },
   {
     "name": "THE HAUNTING OF PENNHURST",
@@ -4558,7 +4784,8 @@
     "description": "At a former institution for people with disabilities, a haunted attraction employs disabled performers who confront the site’s abusive past while reclaiming its story on their own terms.",
     "director": "NATHAN STENBERG, MIKE ATTIE, KATARINA POLJAK",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Haunting-of-Pennhurst-The-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Haunting-of-Pennhurst-The-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Haunting-of-Pennhurst-The-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662012"
   },
   {
     "name": "THE DEBUT",
@@ -4579,25 +4806,28 @@
     "description": "Julianne Moore gives a career-defining performance as a New Jersey housewife determined to do whatever it takes to make it big in her local community theater.",
     "director": "JESSE EISENBERG",
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1-1024x560.webp",
-    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1-1024x560@2x.webp"
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661974"
   },
   {
     "name": "CLOSING NIGHT PARTY",
     "date": "2026-10-25",
     "start_time": "21:30",
     "start_time_as_printed": "9:30",
-    "end_time": null,
+    "end_time": "00:00",
     "run_time_minutes": null,
-    "category": null,
+    "category": "Events",
     "venue": "Events",
     "start_offset_minutes": 1290,
-    "end_offset_minutes": null,
+    "end_offset_minutes": 1440,
     "id": "54d128b7-6ae9-5794-a51b-cf39c58a8b36",
     "Total_Screenings": 1,
     "Other_Screenings": [],
-    "description": null,
+    "description": "It’s a wrap! Presented by iHeart Radio, celebrate the 35th Philadelphia Film Festival with other festivalgoers, award winners, guests and more as we look back on 11 days of storytelling at its finest. Enjoy complimentary drinks and bites, with music by DJ Queen Kev! 21+. $50 General Admission, $40 PFS members for Film & Party.",
     "director": null,
-    "image_url": null,
-    "image_url_2x": null
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1024x560@2x.webp",
+    "purchase_links": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662164&_gl=1*14d9vmj*_ga*NDAyMjMxNzcxLjE3NzI2Mzg1OTc.*_ga_F4MD63SBX9*czE3OTEzODQwODIkbzIzMSRnMSR0MTc5MTM4OTMyNiRqMjEkbDAkaDA.",
+    "location": "Stratus Lounge (433 Chestnut St.)"
   }
 ]

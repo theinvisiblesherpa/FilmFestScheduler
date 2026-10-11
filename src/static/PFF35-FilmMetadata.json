@@ -210,6 +210,15 @@
     "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Close-Encounters-of-the-Third-Kind-ML-1024x576@2x.webp"
   },
   {
+    "name": "CLOSING NIGHT PARTY",
+    "description": "It’s a wrap! Presented by iHeart Radio, celebrate the 35th Philadelphia Film Festival with other festivalgoers, award winners, guests and more as we look back on 11 days of storytelling at its finest. Enjoy complimentary drinks and bites, with music by DJ Queen Kev! 21+. $50 General Admission, $40 PFS members for Film & Party.",
+    "director": null,
+    "canonical_title": "CLOSING NIGHT PARTY",
+    "aliases": [],
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Debut-The-ML-1024x560@2x.webp"
+  },
+  {
     "name": "CLUB KID",
     "description": "After a decade throwing the hottest, drug-fuelled parties in New York City, nothing could cure Peter’s permanent hangover until the son he never knew he had showed up at his door and sobered him right up in triple-threat Jordan Firstman’s hilariously raunchy, yet tenderly sweet debut.",
     "director": "JORDAN FIRSTMAN",
@@ -307,6 +316,15 @@
     "aliases": [],
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Six-Sixty-Six-ML-1024x560.webp",
     "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Six-Sixty-Six-ML-1024x560@2x.webp"
+  },
+  {
+    "name": "FILMMAKER MEET UP",
+    "description": "Join the local filmmaking community to network and pitch your projects to make something happen! Grab a coffee, connect with other local creators, and browse local brands and organizations that can help bring your projects to life. Free event.",
+    "director": null,
+    "canonical_title": "FILMMAKER MEET UP",
+    "aliases": [],
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/industry-mixer-2026-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/industry-mixer-2026-1024x560@2x.webp"
   },
   {
     "name": "FIRST THEY CAME FOR MY COLLEGE",
@@ -558,6 +576,15 @@
     "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Making-Marien-Antoinette-ML-1024x560@2x.webp"
   },
   {
+    "name": "MEMBER APPRECIATION BRUNCH",
+    "description": "Cap off your first weekend at PFF35 with a brunch just for PFS members. Stop in, catch up with your friends at PFS, and plan the rest of your Festival experience over specialty breakfast cocktails from Philadelphia Distilling, plus coffee and bites from La Colombe. Please present your membership card or digital membership confirmation at the door.",
+    "director": null,
+    "canonical_title": "MEMBER APPRECIATION BRUNCH",
+    "aliases": [],
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/member-brunch-2026-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/member-brunch-2026-1024x560@2x.webp"
+  },
+  {
     "name": "MINOTAUR",
     "description": "Recently deemed a foreign agent by his own country, Russia’s master of cinema Andrey Zvyagintsev returns with a venomous, impeccably composed thriller that reimagines Claude Chabrol’s The Unfaithful Life at the outset of the Russian invasion of Ukraine.",
     "director": "ANDREY ZVYAGINTSEV",
@@ -621,6 +648,15 @@
     "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Never-After-Dark-ML-1024x575@2x.webp"
   },
   {
+    "name": "NO SEQUELS REQUIRED: A SINGLES MIXER",
+    "description": "Calling all singles ready to mingle! Come meet your match, for all romantic and platonic interests. Featuring DJ Ciara Chaii, be ready to engage and leave with a new friend or maybe more.",
+    "director": null,
+    "canonical_title": "NO SEQUELS REQUIRED: A SINGLES MIXER",
+    "aliases": [],
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/singles-mixer-2026-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/singles-mixer-2026-1024x560@2x.webp"
+  },
+  {
     "name": "NUISANCE BEAR",
     "description": "Tourism, climate change, and human hubris complicate the ancient migration of a young polar bear, exposing the consequences of trying to control the wild rather than respect it in this beautifully framed documentary.",
     "director": "GABRIELA OSIO VANDEN, JACK WEISMAN",
@@ -639,6 +675,15 @@
     "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Once-Upon-a-Time-in-Harlem-ML-1024x577@2x.webp"
   },
   {
+    "name": "OPENING NIGHT PARTY",
+    "description": "Presented by Cherry Hill Imports Auto Group, buckle up for an unforgettable night of food, drinks and plenty of fun featuring DJ Dommis, live art by Lawren Alice, a whiskey tasting by Dad’s Hat Pennsylvania Rye Whiskey, with special guest Letterboxd and more!",
+    "director": null,
+    "canonical_title": "OPENING NIGHT PARTY",
+    "aliases": [],
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Only-Living-Pickpocket-in-New-York-City-The-ML-1024x560@2x.webp"
+  },
+  {
     "name": "PAPER TIGER",
     "description": "Auteur James Gray’s latest masterpiece is a compelling tale of ambition gone wrong in search of the American Dream.",
     "director": "JAMES GRAY",
@@ -646,6 +691,24 @@
     "aliases": [],
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Paper-Tiger-ML-1024x560.webp",
     "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Paper-Tiger-ML-1024x560@2x.webp"
+  },
+  {
+    "name": "PFF FILM TRIVIA NIGHT!",
+    "description": "Join fellow film buffs across the city for a fun evening of testing your best film knowledge. Hosted by Johnny Goodtimes, come solo or with a team, grab a drink and meet new film buddies! Prizes courtesy of LITTLE MOVIE STORE. Please keep teams no more than 6.",
+    "director": null,
+    "canonical_title": "PFF FILM TRIVIA NIGHT!",
+    "aliases": [],
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/PFS-TRIVIA-NIGHT-1-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/PFS-TRIVIA-NIGHT-1-1024x560@2x.webp"
+  },
+  {
+    "name": "PFS LOVES PHILLY ARTS MARKET!",
+    "description": "Shop, browse, and connect with local Philly artisans featuring handmade goods crafted with love. Come early, grab a drink from MADIS, and support our local creative community.",
+    "director": null,
+    "canonical_title": "PFS LOVES PHILLY ARTS MARKET!",
+    "aliases": [],
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Arts_Market_Logo1-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Arts_Market_Logo1-1024x560@2x.webp"
   },
   {
     "name": "POSSIBLE LOVE",
@@ -1053,5 +1116,14 @@
     "aliases": [],
     "image_url": "https://filmadelphia.org/wp-content/uploads/2026/10/Yellow-Letters-ML-1-1024x560.webp",
     "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2026/10/Yellow-Letters-ML-1-1024x560@2x.webp"
+  },
+  {
+    "name": "YOUNG FRIENDS DANCE PARTY",
+    "description": "Join us for our annual Young Friends Dance Party, featuring DJ Daniel Giangrandi! Enjoy a night of nostalgic throwbacks from the 90s and early aughts, mingle and dance with other film lovers, and indulge in light bites provided by Las Bugambilias and specialty cocktails from Philadelphia Distilling. Free with proof of Festival badge or ticket; 21+ with valid ID.",
+    "director": null,
+    "canonical_title": "YOUNG FRIENDS DANCE PARTY",
+    "aliases": [],
+    "image_url": "https://filmadelphia.org/wp-content/uploads/2025/10/YF-1024x560.webp",
+    "image_url_2x": "https://filmadelphia.org/wp-content/uploads/2025/10/YF-1024x560@2x.webp"
   }
 ]
