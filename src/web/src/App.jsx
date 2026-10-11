@@ -65,7 +65,7 @@ function dateLabel(date, format = { weekday: "long", month: "long", day: "numeri
 }
 
 function clockLabel(offset) {
-  if (offset == null) return "End not listed";
+  if (offset == null) return "";
   const minutesIntoDay = offset % 1440;
   const hour = Math.floor(minutesIntoDay / 60);
   const minute = minutesIntoDay % 60;
@@ -280,7 +280,10 @@ function ScreeningBlock({
   const content = (
     <>
       <span className="screening-time">
-        {clockLabel(item.start_offset_minutes)}–{clockLabel(item.end_offset_minutes)}
+        {clockLabel(item.start_offset_minutes)}
+        {item.end_offset_minutes != null &&
+          item.end_offset_minutes !== "" &&
+          `–${clockLabel(item.end_offset_minutes)}`}
       </span>
       <strong className="screening-title">{item.name}</strong>
       {item.director && (
@@ -299,7 +302,7 @@ function ScreeningBlock({
           ×
         </span>
       )}
-      {item.end_offset_minutes == null && <span className="screening-unknown">END NOT LISTED</span>}
+      {item.end_offset_minutes == null && <span className="screening-unknown"></span>}
       {hasOtherShowings && (
         <span
           className={`second-showing ${otherShowingsBlocked ? "is-ruled-out" : ""} ${selectedOtherShowing ? "has-selected-alternate" : ""}`}
