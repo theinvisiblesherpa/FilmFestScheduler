@@ -337,6 +337,7 @@ button {
   display: flex;
   align-items: center;
   gap: 8px;
+  z-index: 8;
   transform: translateY(8px);
 }
 
@@ -419,8 +420,8 @@ button {
   box-shadow: 0 8px 24px rgb(19 29 25 / 16%);
 }
 
-.theater-filter-menu legend {
-  padding: 0 4px;
+.theater-filter-heading {
+  padding: 0 4px 4px;
   color: var(--muted);
   font-size: 10px;
   font-weight: 700;

@@ -723,8 +723,8 @@ function App() {
               <span>Theaters</span>
               <strong>{selectedTheaters.size}/{THEATERS.length}</strong>
             </summary>
-            <fieldset className="theater-filter-menu">
-              <legend>Show screenings at</legend>
+            <div className="theater-filter-menu" role="group" aria-label="Show screenings at">
+              <span className="theater-filter-heading">Show screenings at</span>
               {THEATERS.map((theater) => (
                 <label key={theater.id}>
                   <input
@@ -735,7 +735,7 @@ function App() {
                   <span>{theater.label}</span>
                 </label>
               ))}
-            </fieldset>
+            </div>
           </details>
         </div>
       </section>
