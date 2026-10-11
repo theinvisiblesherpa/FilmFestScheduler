@@ -5,6 +5,7 @@ import {
   ChevronLeft,
   ChevronRight,
   Download,
+  Github,
   Search,
   SlidersHorizontal,
   X,
@@ -69,8 +70,7 @@ function clockLabel(offset) {
   const hour = Math.floor(minutesIntoDay / 60);
   const minute = minutesIntoDay % 60;
   const clockHour = hour % 12 || 12;
-  const dayOffset = Math.floor(offset / 1440);
-  return `${clockHour}:${String(minute).padStart(2, "0")}${hour >= 12 ? "p" : "a"}${dayOffset ? ` +${dayOffset}` : ""}`;
+  return `${clockHour}:${String(minute).padStart(2, "0")}${hour >= 12 ? "p" : "a"}`;
 }
 
 function timeRange(item) {
@@ -641,7 +641,7 @@ function App() {
           </div>
           <div>
             <p className="eyebrow">Philadelphia Film Festival</p>
-            <h1>Build your schedule</h1>
+            <h1>Build Your Schedule</h1>
           </div>
         </div>
         <div className="top-actions">
@@ -739,12 +739,14 @@ function App() {
 
       <section className="category-key" aria-label="Film categories">
         <span className="key-heading">CATEGORY KEY</span>
-        {categories.map((category) => (
-          <span className="key-item" key={category}>
-            <i style={{ background: CATEGORY_COLORS[category]?.[0] ?? "#98a19e" }} />
-            {category}
-          </span>
-        ))}
+        <div className="category-list">
+          {categories.map((category) => (
+            <span className="key-item" key={category}>
+              <i style={{ background: CATEGORY_COLORS[category]?.[0] ?? "#98a19e" }} />
+              {category}
+            </span>
+          ))}
+        </div>
       </section>
 
       <div className="schedule-frame">
@@ -772,8 +774,26 @@ function App() {
       )}
 
       <footer className="app-footer">
-        <p>{notice || "Times shown in local festival time."}</p>
-        <span>{schedule.length} scheduled entries</span>
+        <div className="footer-meta">
+          <p>{notice || "Times shown in Eastern Daylight Time (EDT)"}</p>
+          <div className="footer-credit">
+            <a
+              className="github-link"
+              href="https://github.com/theinvisiblesherpa/FilmFestScheduler"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="FilmFestScheduler on GitHub"
+              title="View this project on GitHub"
+            >
+              <Github size={15} aria-hidden="true" />
+            </a>
+            <span>by Jam Heinlein</span>
+            <span>{schedule.length} scheduled entries</span>
+          </div>
+        </div>
+        <p className="footer-disclaimer">
+          DISCLAIMER: This applicaiton is NOT affiliated with the Philadelphia Film Society and is purely created to assist patrons
+        </p>
       </footer>
 
       <div className="export-stage" aria-hidden="true">

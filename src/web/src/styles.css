@@ -76,10 +76,9 @@ button {
   height: 54px;
   align-content: center;
   justify-items: center;
-  color: #fff;
-  background: var(--red);
+  color: var(--ink);
+  background: #b2a46f;
   line-height: 0.86;
-  transform: rotate(-3deg);
 }
 
 .brand-stamp span,
@@ -335,6 +334,7 @@ button {
   display: flex;
   align-items: center;
   gap: 8px;
+  transform: translateY(8px);
 }
 
 .day-heading .eyebrow {
@@ -473,34 +473,48 @@ button {
 }
 
 .category-key {
-  min-height: 41px;
-  flex-wrap: wrap;
-  gap: 8px 15px;
+  display: grid;
+  gap: 8px;
   margin-bottom: 11px;
-  padding: 7px 11px;
+  padding: 10px 11px;
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
   background: rgb(251 252 248 / 68%);
 }
 
 .key-heading {
-  margin-right: 1px;
   color: #64706a;
   font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.category-list {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  gap: 4px 6px;
 }
 
 .key-item {
-  gap: 5px;
+  width: 100%;
+  min-height: 25px;
+  gap: 7px;
+  padding: 3px 8px;
+  border: 1px solid #e0e5df;
+  border-radius: 3px;
   color: #45514c;
+  background: var(--paper);
   font-size: 10px;
   white-space: nowrap;
 }
 
 .key-item i {
-  width: 9px;
-  height: 9px;
+  width: 10px;
+  height: 10px;
   flex: 0 0 auto;
   border: 1px solid rgb(0 0 0 / 9%);
+  border-radius: 2px;
 }
 
 .schedule-frame {
@@ -578,16 +592,13 @@ button {
 .time-tick {
   position: absolute;
   top: 50%;
+  margin-left: 4px;
   color: #68736d;
   font-family: "Barlow Condensed", sans-serif;
   font-size: 12px;
   font-weight: 600;
-  transform: translate(-50%, -50%);
+  transform: translateY(-50%);
   white-space: nowrap;
-}
-
-.time-tick:first-child {
-  transform: translate(0, -50%);
 }
 
 .venue-row {
@@ -918,11 +929,30 @@ button {
 }
 
 .app-footer {
+  flex-direction: column;
+  align-items: stretch;
   min-height: 36px;
-  justify-content: space-between;
-  gap: 18px;
+  gap: 9px;
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
   color: #727d76;
   font-size: 10px;
+}
+
+.footer-meta,
+.footer-credit {
+  display: flex;
+  align-items: center;
+}
+
+.footer-meta {
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.footer-credit {
+  gap: 7px;
 }
 
 .app-footer p {
@@ -930,8 +960,30 @@ button {
   margin: 0;
 }
 
-.app-footer span {
+.footer-credit span:last-child {
   white-space: nowrap;
+}
+
+.github-link {
+  display: inline-flex;
+  color: inherit;
+  transition: color 140ms ease;
+}
+
+.github-link:hover {
+  color: var(--ink);
+}
+
+.github-link:focus-visible {
+  border-radius: 2px;
+  outline: 2px solid var(--red);
+  outline-offset: 3px;
+}
+
+.footer-disclaimer {
+  color: #59635d;
+  font-size: 9px;
+  line-height: 1.5;
 }
 
 .export-stage {
@@ -1183,6 +1235,10 @@ button {
     gap: 8px 11px;
   }
 
+  .category-list {
+    grid-template-columns: repeat(3, max-content);
+  }
+
   .scroll-cue {
     display: block;
   }
@@ -1308,6 +1364,8 @@ button {
 
   .schedule-filters {
     width: 100%;
+    margin-top: 4px;
+    transform: none;
   }
 
   .schedule-filters .search-box {
@@ -1322,18 +1380,22 @@ button {
   }
 
   .category-key {
-    max-height: 88px;
-    overflow: auto;
-    align-content: flex-start;
-    padding: 7px;
+    gap: 7px;
+    padding: 8px;
   }
 
   .key-item {
     font-size: 9px;
   }
 
-  .key-heading {
-    width: 100%;
+  .category-list {
+    grid-template-columns: repeat(2, max-content);
+    gap: 5px;
+  }
+
+  .key-item {
+    min-height: 23px;
+    padding: 2px 6px;
   }
 
   .scroll-cue {
@@ -1342,8 +1404,17 @@ button {
   }
 
   .app-footer {
-    align-items: flex-start;
     padding-top: 9px;
     font-size: 9px;
+  }
+
+  .footer-meta {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 7px;
+  }
+
+  .footer-credit {
+    flex-wrap: wrap;
   }
 }
