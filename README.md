@@ -1,5 +1,7 @@
 # PFF35 Schedule
 
+Live schedule: <https://pff35-schedule-builder.cloud.run/>
+
 ## Run locally
 
 ```sh
