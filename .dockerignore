@@ -1,0 +1,12 @@
+.git
+.github
+.venv
+node_modules
+src/web/node_modules
+src/web/dist
+src/SourceData/*.pdf
+src/SourceData/*.html
+src/SourceData/PFF35-FilmMetadata.json
+src/scripts
+__pycache__
+*.py[cod]
