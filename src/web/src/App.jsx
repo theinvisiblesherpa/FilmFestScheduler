@@ -788,7 +788,6 @@ function App() {
               <Github size={15} aria-hidden="true" />
             </a>
             <span>by Jam Heinlein</span>
-            <span>{schedule.length} scheduled entries</span>
           </div>
         </div>
         <p className="footer-disclaimer">
