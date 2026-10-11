@@ -22,9 +22,11 @@ supports client-side route fallback, and exposes a `/healthz` health endpoint.
 
 ## Deploy releases to Cloud Run
 
-The GitHub Actions workflow builds and pushes an image to Artifact Registry,
-deploys it publicly to Cloud Run, and creates a GitHub release whenever a
-version tag matching `v*` is pushed.
+The GitHub Actions workflow builds and pushes an image to Artifact Registry
+and deploys it publicly to Cloud Run when a commit is pushed to `main`, when a
+version tag matching `v*` is pushed, or when manually run with **Actions →
+Build, deploy, and release → Run workflow**. A GitHub release is created only
+for version-tag runs.
 
 One-time GCP setup:
 
@@ -97,7 +99,8 @@ Set these GitHub Actions **secrets**:
 | `GCP_WIF_PROVIDER` | Full Workload Identity Provider resource name |
 | `GCP_DEPLOY_SERVICE_ACCOUNT` | Email address of the deployment service account |
 
-Push a version tag to start the release:
+Push to `main` to deploy automatically. To create a versioned GitHub release,
+push a version tag:
 
 ```sh
 git tag v1.0.0
