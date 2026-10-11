@@ -10,7 +10,7 @@ import {
   SlidersHorizontal,
   X,
 } from "lucide-react";
-import schedule from "../../SourceData/PFF35-Schedule.json";
+import schedule from "../../static/PFF35-Schedule.json";
 
 const DAY_START = 9 * 60;
 const DAY_END = 27 * 60;

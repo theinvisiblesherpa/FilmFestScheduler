@@ -18,7 +18,7 @@ import pymupdf
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PDF = ROOT / "SourceData/PFF35-Schedule-Grid (1) (1).pdf"
-DEFAULT_JSON = ROOT / "SourceData/PFF35-Schedule.json"
+DEFAULT_JSON = ROOT / "static/PFF35-Schedule.json"
 FILM_METADATA_JSON = ROOT / "SourceData/PFF35-FilmMetadata.json"
 
 CATEGORY_LABELS = {

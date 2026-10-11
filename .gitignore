@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Source Data Files
+src/SourceData/*
