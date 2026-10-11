@@ -552,7 +552,7 @@ function App() {
       if (!previewHover.current.trigger && !previewHover.current.preview) {
         setFilmPreview(null);
       }
-    }, 400);
+    }, 150);
   }
 
   function toggleTheater(theaterId) {
